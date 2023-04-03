@@ -1,0 +1,4269 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -225.2737422109
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 1
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999990207 
+   Number of Beta  Electrons                 11.9999990207 
+   Total number of  Electrons                23.9999980413 
+   Exchange energy                          -24.6574443002 
+   Correlation energy                        -0.9112365482 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5686808484 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2737422109 
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 1
+   prop. index: 1
+     Number of atoms                     : 3
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 3
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     8.0959     8.0000    -0.0959     1.8762     1.8762     0.0000
+  1   0     7.8082     8.0000     0.1918     2.6469     2.6469     0.0000
+  2   0     8.0959     8.0000    -0.0959     1.8762     1.8762     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             8               1            8                1.323460
+                0             8               2            8                0.552748
+                1             8               2            8                1.323474
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.5901248003
+        Electronic Contribution:
+                  0    
+      0       0.119056
+      1      -0.199318
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.119056
+      1      -0.199318
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -225.2735998407
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 2
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992917 
+   Number of Beta  Electrons                 11.9999992917 
+   Total number of  Electrons                23.9999985834 
+   Exchange energy                          -24.6580134483 
+   Correlation energy                        -0.9113088030 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5693222513 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2735998407 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 2
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.6128120637
+        Electronic Contribution:
+                  0    
+      0       0.125428
+      1      -0.205898
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.125428
+      1      -0.205898
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:     -225.2732919378
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 3
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999993782 
+   Number of Beta  Electrons                 11.9999993782 
+   Total number of  Electrons                23.9999987564 
+   Exchange energy                          -24.6587182962 
+   Correlation energy                        -0.9113848817 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5701031779 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2732919378 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 3
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.6353485389
+        Electronic Contribution:
+                  0    
+      0       0.131870
+      1      -0.212345
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.131870
+      1      -0.212345
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:     -225.2728128524
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 4
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992994 
+   Number of Beta  Electrons                 11.9999992994 
+   Total number of  Electrons                23.9999985988 
+   Exchange energy                          -24.6594942553 
+   Correlation energy                        -0.9114644474 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5709587027 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2728128524 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 4
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.6578082889
+        Electronic Contribution:
+                  0    
+      0       0.138423
+      1      -0.218666
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.138423
+      1      -0.218666
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:     -225.2721566968
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 5
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999991020 
+   Number of Beta  Electrons                 11.9999991020 
+   Total number of  Electrons                23.9999982041 
+   Exchange energy                          -24.6603304628 
+   Correlation energy                        -0.9115476106 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5718780733 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2721566968 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 5
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.6801722503
+        Electronic Contribution:
+                  0    
+      0       0.145075
+      1      -0.224856
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.145075
+      1      -0.224856
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:     -225.2713172689
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 6
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999988478 
+   Number of Beta  Electrons                 11.9999988478 
+   Total number of  Electrons                23.9999976956 
+   Exchange energy                          -24.6612271409 
+   Correlation energy                        -0.9116345050 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5728616459 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2713172689 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 6
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.7024276018
+        Electronic Contribution:
+                  0    
+      0       0.151821
+      1      -0.230912
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.151821
+      1      -0.230912
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 7
+   prop. index: 1
+        SCF Energy:     -225.2702880238
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 7
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999986013 
+   Number of Beta  Electrons                 11.9999986013 
+   Total number of  Electrons                23.9999972027 
+   Exchange energy                          -24.6622019679 
+   Correlation energy                        -0.9117254520 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5739274199 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2702880238 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 7
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.7243767611
+        Electronic Contribution:
+                  0    
+      0       0.158530
+      1      -0.236823
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.158530
+      1      -0.236823
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 8
+   prop. index: 1
+        SCF Energy:     -225.2690620733
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 8
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999984200 
+   Number of Beta  Electrons                 11.9999984200 
+   Total number of  Electrons                23.9999968400 
+   Exchange energy                          -24.6632159180 
+   Correlation energy                        -0.9118199566 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5750358746 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2690620733 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 8
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.7465608578
+        Electronic Contribution:
+                  0    
+      0       0.165582
+      1      -0.242591
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.165582
+      1      -0.242591
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 9
+   prop. index: 1
+        SCF Energy:     -225.2676321300
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 9
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999983472 
+   Number of Beta  Electrons                 11.9999983472 
+   Total number of  Electrons                23.9999966943 
+   Exchange energy                          -24.6643063001 
+   Correlation energy                        -0.9119188211 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5762251212 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2676321300 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 9
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.7682555937
+        Electronic Contribution:
+                  0    
+      0       0.172479
+      1      -0.248204
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.172479
+      1      -0.248204
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 10
+   prop. index: 1
+        SCF Energy:     -225.2659904257
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 10
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999984027 
+   Number of Beta  Electrons                 11.9999984027 
+   Total number of  Electrons                23.9999968054 
+   Exchange energy                          -24.6654680858 
+   Correlation energy                        -0.9120218610 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5774899467 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2659904257 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 10
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.7899266801
+        Electronic Contribution:
+                  0    
+      0       0.179541
+      1      -0.253665
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.179541
+      1      -0.253665
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 11
+   prop. index: 1
+        SCF Energy:     -225.2641286220
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 11
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999985705 
+   Number of Beta  Electrons                 11.9999985705 
+   Total number of  Electrons                23.9999971411 
+   Exchange energy                          -24.6667073197 
+   Correlation energy                        -0.9121293916 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5788367113 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2641286220 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 11
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.8114394764
+        Electronic Contribution:
+                  0    
+      0       0.186688
+      1      -0.258961
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.186688
+      1      -0.258961
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 12
+   prop. index: 1
+        SCF Energy:     -225.2620364945
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 12
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999987978 
+   Number of Beta  Electrons                 11.9999987978 
+   Total number of  Electrons                23.9999975956 
+   Exchange energy                          -24.6681705082 
+   Correlation energy                        -0.9122396844 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5804101926 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2620364945 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 12
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.8326062211
+        Electronic Contribution:
+                  0    
+      0       0.193752
+      1      -0.264120
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.193752
+      1      -0.264120
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 13
+   prop. index: 1
+        SCF Energy:     -225.2597083774
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 13
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999990170 
+   Number of Beta  Electrons                 11.9999990170 
+   Total number of  Electrons                23.9999980339 
+   Exchange energy                          -24.6694219188 
+   Correlation energy                        -0.9123589008 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5817808196 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2597083774 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 13
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.8539233641
+        Electronic Contribution:
+                  0    
+      0       0.201197
+      1      -0.269043
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.201197
+      1      -0.269043
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 14
+   prop. index: 1
+        SCF Energy:     -225.2571304353
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 14
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999991739 
+   Number of Beta  Electrons                 11.9999991739 
+   Total number of  Electrons                23.9999983479 
+   Exchange energy                          -24.6709211963 
+   Correlation energy                        -0.9124816473 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5834028436 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2571304353 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 14
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.8747699716
+        Electronic Contribution:
+                  0    
+      0       0.208467
+      1      -0.273831
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.208467
+      1      -0.273831
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 15
+   prop. index: 1
+        SCF Energy:     -225.2542934376
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 15
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992462 
+   Number of Beta  Electrons                 11.9999992462 
+   Total number of  Electrons                23.9999984925 
+   Exchange energy                          -24.6725002717 
+   Correlation energy                        -0.9126101209 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5851103927 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2542934376 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 15
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.8954218383
+        Electronic Contribution:
+                  0    
+      0       0.215808
+      1      -0.278437
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.215808
+      1      -0.278437
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 16
+   prop. index: 1
+        SCF Energy:     -225.2511863403
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 16
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992463 
+   Number of Beta  Electrons                 11.9999992463 
+   Total number of  Electrons                23.9999984925 
+   Exchange energy                          -24.6741758634 
+   Correlation energy                        -0.9127448899 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5869207532 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2511863403 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 16
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9158299559
+        Electronic Contribution:
+                  0    
+      0       0.223187
+      1      -0.282859
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.223187
+      1      -0.282859
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 17
+   prop. index: 1
+        SCF Energy:     -225.2477975157
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 17
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992136 
+   Number of Beta  Electrons                 11.9999992136 
+   Total number of  Electrons                23.9999984272 
+   Exchange energy                          -24.6759497873 
+   Correlation energy                        -0.9128864379 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5888362252 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2477975157 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 17
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9359793228
+        Electronic Contribution:
+                  0    
+      0       0.230594
+      1      -0.287095
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.230594
+      1      -0.287095
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 18
+   prop. index: 1
+        SCF Energy:     -225.2441147067
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 18
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999991975 
+   Number of Beta  Electrons                 11.9999991975 
+   Total number of  Electrons                23.9999983950 
+   Exchange energy                          -24.6778267549 
+   Correlation energy                        -0.9130352369 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5908619918 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2441147067 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 18
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9558572059
+        Electronic Contribution:
+                  0    
+      0       0.238022
+      1      -0.291142
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.238022
+      1      -0.291142
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 19
+   prop. index: 1
+        SCF Energy:     -225.2401249230
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 19
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992328 
+   Number of Beta  Electrons                 11.9999992328 
+   Total number of  Electrons                23.9999984657 
+   Exchange energy                          -24.6798112880 
+   Correlation energy                        -0.9131917107 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5930029986 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2401249230 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 19
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9754513602
+        Electronic Contribution:
+                  0    
+      0       0.245465
+      1      -0.294995
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.245465
+      1      -0.294995
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 20
+   prop. index: 1
+        SCF Energy:     -225.2358143121
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 20
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999993223 
+   Number of Beta  Electrons                 11.9999993223 
+   Total number of  Electrons                23.9999986446 
+   Exchange energy                          -24.6820456509 
+   Correlation energy                        -0.9133563001 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5954019510 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2358143121 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 20
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.9942224831
+        Electronic Contribution:
+                  0    
+      0       0.252768
+      1      -0.298507
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.252768
+      1      -0.298507
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 21
+   prop. index: 1
+        SCF Energy:     -225.2311681635
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 21
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999994390 
+   Number of Beta  Electrons                 11.9999994390 
+   Total number of  Electrons                23.9999988779 
+   Exchange energy                          -24.6841516897 
+   Correlation energy                        -0.9135294012 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.5976810909 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2311681635 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 21
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.0137605238
+        Electronic Contribution:
+                  0    
+      0       0.260387
+      1      -0.302107
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.260387
+      1      -0.302107
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 22
+   prop. index: 1
+        SCF Energy:     -225.2261706640
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 22
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999995381 
+   Number of Beta  Electrons                 11.9999995381 
+   Total number of  Electrons                23.9999990762 
+   Exchange energy                          -24.6866205148 
+   Correlation energy                        -0.9137112099 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6003317247 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2261706640 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 22
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.0319203734
+        Electronic Contribution:
+                  0    
+      0       0.267676
+      1      -0.305237
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.267676
+      1      -0.305237
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 23
+   prop. index: 1
+        SCF Energy:     -225.2208051740
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 23
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999995710 
+   Number of Beta  Electrons                 11.9999995710 
+   Total number of  Electrons                23.9999991420 
+   Exchange energy                          -24.6889584481 
+   Correlation energy                        -0.9139020882 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6028605363 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2208051740 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 23
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.0507650745
+        Electronic Contribution:
+                  0    
+      0       0.275268
+      1      -0.308419
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.275268
+      1      -0.308419
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 24
+   prop. index: 1
+        SCF Energy:     -225.2150539184
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 24
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999994954 
+   Number of Beta  Electrons                 11.9999994954 
+   Total number of  Electrons                23.9999989909 
+   Exchange energy                          -24.6917001430 
+   Correlation energy                        -0.9141025984 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6058027414 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2150539184 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 24
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.0682942090
+        Electronic Contribution:
+                  0    
+      0       0.282538
+      1      -0.311154
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.282538
+      1      -0.311154
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 25
+   prop. index: 1
+        SCF Energy:     -225.2088982282
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 25
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999992932 
+   Number of Beta  Electrons                 11.9999992932 
+   Total number of  Electrons                23.9999985865 
+   Exchange energy                          -24.6942981073 
+   Correlation energy                        -0.9143125897 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6086106970 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2088982282 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 25
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.0864141260
+        Electronic Contribution:
+                  0    
+      0       0.290078
+      1      -0.313914
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.290078
+      1      -0.313914
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 26
+   prop. index: 1
+        SCF Energy:     -225.2023182220
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 26
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999989787 
+   Number of Beta  Electrons                 11.9999989787 
+   Total number of  Electrons                23.9999979573 
+   Exchange energy                          -24.6971844621 
+   Correlation energy                        -0.9145326070 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6117170691 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.2023182220 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 26
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1037160443
+        Electronic Contribution:
+                  0    
+      0       0.297444
+      1      -0.316354
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.297444
+      1      -0.316354
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 27
+   prop. index: 1
+        SCF Energy:     -225.1952929117
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 27
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999985983 
+   Number of Beta  Electrons                 11.9999985983 
+   Total number of  Electrons                23.9999971966 
+   Exchange energy                          -24.7002208388 
+   Correlation energy                        -0.9147624531 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6149832918 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1952929117 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 27
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1206489038
+        Electronic Contribution:
+                  0    
+      0       0.304771
+      1      -0.318586
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.304771
+      1      -0.318586
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 28
+   prop. index: 1
+        SCF Energy:     -225.1878000034
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 28
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999982190 
+   Number of Beta  Electrons                 11.9999982190 
+   Total number of  Electrons                23.9999964381 
+   Exchange energy                          -24.7034166746 
+   Correlation energy                        -0.9150020269 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6184187014 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1878000034 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 28
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1372155815
+        Electronic Contribution:
+                  0    
+      0       0.312059
+      1      -0.320611
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.312059
+      1      -0.320611
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 29
+   prop. index: 1
+        SCF Energy:     -225.1798157599
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 29
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999979125 
+   Number of Beta  Electrons                 11.9999979125 
+   Total number of  Electrons                23.9999958250 
+   Exchange energy                          -24.7067795323 
+   Correlation energy                        -0.9152511463 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6220306787 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1798157599 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 29
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1534137526
+        Electronic Contribution:
+                  0    
+      0       0.319302
+      1      -0.322430
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.319302
+      1      -0.322430
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 30
+   prop. index: 1
+        SCF Energy:     -225.1713148672
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 30
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999977373 
+   Number of Beta  Electrons                 11.9999977373 
+   Total number of  Electrons                23.9999954746 
+   Exchange energy                          -24.7103170797 
+   Correlation energy                        -0.9155097325 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6258268122 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1713148672 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 30
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1692443527
+        Electronic Contribution:
+                  0    
+      0       0.326498
+      1      -0.324046
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.326498
+      1      -0.324046
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 31
+   prop. index: 1
+        SCF Energy:     -225.1622703061
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 31
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999977237 
+   Number of Beta  Electrons                 11.9999977237 
+   Total number of  Electrons                23.9999954475 
+   Exchange energy                          -24.7140368365 
+   Correlation energy                        -0.9157779711 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6298148077 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1622703061 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 31
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1847120964
+        Electronic Contribution:
+                  0    
+      0       0.333643
+      1      -0.325461
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.333643
+      1      -0.325461
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 32
+   prop. index: 1
+        SCF Energy:     -225.1526532486
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 32
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999978650 
+   Number of Beta  Electrons                 11.9999978650 
+   Total number of  Electrons                23.9999957300 
+   Exchange energy                          -24.7179460531 
+   Correlation energy                        -0.9160563964 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6340024495 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1526532486 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 32
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.1998261883
+        Electronic Contribution:
+                  0    
+      0       0.340736
+      1      -0.326679
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.340736
+      1      -0.326679
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 33
+   prop. index: 1
+        SCF Energy:     -225.1424329893
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 33
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999981179 
+   Number of Beta  Electrons                 11.9999981179 
+   Total number of  Electrons                23.9999962359 
+   Exchange energy                          -24.7220517371 
+   Correlation energy                        -0.9163458646 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6383976018 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1424329893 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 33
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2146010879
+        Electronic Contribution:
+                  0    
+      0       0.347778
+      1      -0.327707
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.347778
+      1      -0.327707
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 34
+   prop. index: 1
+        SCF Energy:     -225.1315769435
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 34
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999984150 
+   Number of Beta  Electrons                 11.9999984150 
+   Total number of  Electrons                23.9999968301 
+   Exchange energy                          -24.7263607964 
+   Correlation energy                        -0.9166474470 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6430082434 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1315769435 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 34
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2290572173
+        Electronic Contribution:
+                  0    
+      0       0.354772
+      1      -0.328552
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.354772
+      1      -0.328552
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 35
+   prop. index: 1
+        SCF Energy:     -225.1200507069
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 35
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999986856 
+   Number of Beta  Electrons                 11.9999986856 
+   Total number of  Electrons                23.9999973712 
+   Exchange energy                          -24.7308803260 
+   Correlation energy                        -0.9169622677 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6478425937 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1200507069 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 35
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2432216676
+        Electronic Contribution:
+                  0    
+      0       0.361722
+      1      -0.329222
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.361722
+      1      -0.329222
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 36
+   prop. index: 1
+        SCF Energy:     -225.1078181799
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 36
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999988805 
+   Number of Beta  Electrons                 11.9999988805 
+   Total number of  Electrons                23.9999977610 
+   Exchange energy                          -24.7356179069 
+   Correlation energy                        -0.9172913162 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6529092231 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1078181799 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 36
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2571286694
+        Electronic Contribution:
+                  0    
+      0       0.368634
+      1      -0.329728
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.368634
+      1      -0.329728
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 37
+   prop. index: 1
+        SCF Energy:     -225.0948417221
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 37
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999989900 
+   Number of Beta  Electrons                 11.9999989900 
+   Total number of  Electrons                23.9999979799 
+   Exchange energy                          -24.7405815928 
+   Correlation energy                        -0.9176353002 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6582168930 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0948417221 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 37
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2708199508
+        Electronic Contribution:
+                  0    
+      0       0.375519
+      1      -0.330082
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.375519
+      1      -0.330082
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 38
+   prop. index: 1
+        SCF Energy:     -225.0810823925
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 38
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999990429 
+   Number of Beta  Electrons                 11.9999990429 
+   Total number of  Electrons                23.9999980857 
+   Exchange energy                          -24.7457802152 
+   Correlation energy                        -0.9179946174 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6637748325 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0810823925 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 38
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2843452235
+        Electronic Contribution:
+                  0    
+      0       0.382388
+      1      -0.330299
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.382388
+      1      -0.330299
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 39
+   prop. index: 1
+        SCF Energy:     -225.0665003464
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 39
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999990912 
+   Number of Beta  Electrons                 11.9999990912 
+   Total number of  Electrons                23.9999981825 
+   Exchange energy                          -24.7512232586 
+   Correlation energy                        -0.9183694564 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6695927150 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0665003464 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 39
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2977618793
+        Electronic Contribution:
+                  0    
+      0       0.389257
+      1      -0.330393
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.389257
+      1      -0.330393
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 40
+   prop. index: 1
+        SCF Energy:     -225.0510554630
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 40
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999991875 
+   Number of Beta  Electrons                 11.9999991875 
+   Total number of  Electrons                23.9999983751 
+   Exchange energy                          -24.7569202023 
+   Correlation energy                        -0.9187599771 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6756801794 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0510554630 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 40
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3111328519
+        Electronic Contribution:
+                  0    
+      0       0.396141
+      1      -0.330381
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.396141
+      1      -0.330381
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 41
+   prop. index: 1
+        SCF Energy:     -225.0347083104
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 41
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999993580 
+   Number of Beta  Electrons                 11.9999993580 
+   Total number of  Electrons                23.9999987160 
+   Exchange energy                          -24.7628804641 
+   Correlation energy                        -0.9191665082 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6820469723 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0347083104 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 41
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3245223444
+        Electronic Contribution:
+                  0    
+      0       0.403061
+      1      -0.330278
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.403061
+      1      -0.330278
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 42
+   prop. index: 1
+        SCF Energy:     -225.0174215848
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 42
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999995767 
+   Number of Beta  Electrons                 11.9999995767 
+   Total number of  Electrons                23.9999991534 
+   Exchange energy                          -24.7692082564 
+   Correlation energy                        -0.9195908088 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6887990652 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0174215848 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 42
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3379573733
+        Electronic Contribution:
+                  0    
+      0       0.410023
+      1      -0.330090
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.410023
+      1      -0.330090
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 43
+   prop. index: 1
+        SCF Energy:     -224.9991623384
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 43
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999997610 
+   Number of Beta  Electrons                 11.9999997610 
+   Total number of  Electrons                23.9999995220 
+   Exchange energy                          -24.7757751720 
+   Correlation energy                        -0.9200318694 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.6958070414 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9991623384 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 43
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3514807343
+        Electronic Contribution:
+                  0    
+      0       0.417039
+      1      -0.329827
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.417039
+      1      -0.329827
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 44
+   prop. index: 1
+        SCF Energy:     -224.9799053676
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 44
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999998042 
+   Number of Beta  Electrons                 11.9999998042 
+   Total number of  Electrons                23.9999996084 
+   Exchange energy                          -24.7825500286 
+   Correlation energy                        -0.9204906486 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7030406772 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9799053676 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 44
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3652109400
+        Electronic Contribution:
+                  0    
+      0       0.424166
+      1      -0.329492
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.424166
+      1      -0.329492
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 45
+   prop. index: 1
+        SCF Energy:     -224.9596380451
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 45
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999996224 
+   Number of Beta  Electrons                 11.9999996224 
+   Total number of  Electrons                23.9999992449 
+   Exchange energy                          -24.7896296027 
+   Correlation energy                        -0.9209700408 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7105996435 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9596380451 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 45
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3789923467
+        Electronic Contribution:
+                  0    
+      0       0.431328
+      1      -0.329076
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.431328
+      1      -0.329076
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 46
+   prop. index: 1
+        SCF Energy:     -224.9383673784
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 46
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999991888 
+   Number of Beta  Electrons                 11.9999991888 
+   Total number of  Electrons                23.9999983776 
+   Exchange energy                          -24.7972230738 
+   Correlation energy                        -0.9214730028 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7186960766 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9383673784 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 46
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3920006794
+        Electronic Contribution:
+                  0    
+      0       0.438261
+      1      -0.328392
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.438261
+      1      -0.328392
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 47
+   prop. index: 1
+        SCF Energy:     -224.9161298794
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 47
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999985528 
+   Number of Beta  Electrons                 11.9999985528 
+   Total number of  Electrons                23.9999971055 
+   Exchange energy                          -24.8049742696 
+   Correlation energy                        -0.9219996257 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7269738953 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9161298794 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 47
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4043296085
+        Electronic Contribution:
+                  0    
+      0       0.444940
+      1      -0.327534
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.444940
+      1      -0.327534
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 48
+   prop. index: 1
+        SCF Energy:     -224.8930048855
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 48
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999978502 
+   Number of Beta  Electrons                 11.9999978502 
+   Total number of  Electrons                23.9999957004 
+   Exchange energy                          -24.8130254040 
+   Correlation energy                        -0.9225542424 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7355796464 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.8930048855 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 48
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4144877821
+        Electronic Contribution:
+                  0    
+      0       0.450999
+      1      -0.326009
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.450999
+      1      -0.326009
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 49
+   prop. index: 1
+        SCF Energy:     -224.8691302484
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 49
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999972760 
+   Number of Beta  Electrons                 11.9999972760 
+   Total number of  Electrons                23.9999945521 
+   Exchange energy                          -24.8215588788 
+   Correlation energy                        -0.9231419163 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7447007952 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.8691302484 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 49
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4203419815
+        Electronic Contribution:
+                  0    
+      0       0.455700
+      1      -0.323401
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.455700
+      1      -0.323401
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 50
+   prop. index: 1
+        SCF Energy:     -224.8447167882
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 50
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999970006 
+   Number of Beta  Electrons                 11.9999970006 
+   Total number of  Electrons                23.9999940012 
+   Exchange energy                          -24.8299750922 
+   Correlation energy                        -0.9237650484 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7537401406 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.8447167882 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 50
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4191427851
+        Electronic Contribution:
+                  0    
+      0       0.458137
+      1      -0.319116
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.458137
+      1      -0.319116
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 51
+   prop. index: 1
+        SCF Energy:     -224.8200534634
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 51
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999970874 
+   Number of Beta  Electrons                 11.9999970874 
+   Total number of  Electrons                23.9999941749 
+   Exchange energy                          -24.8387679007 
+   Correlation energy                        -0.9244292718 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7631971725 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.8200534634 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 51
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4066873913
+        Electronic Contribution:
+                  0    
+      0       0.456831
+      1      -0.312380
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.456831
+      1      -0.312380
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 52
+   prop. index: 1
+        SCF Energy:     -224.7954910489
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 52
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999974826 
+   Number of Beta  Electrons                 11.9999974826 
+   Total number of  Electrons                23.9999949653 
+   Exchange energy                          -24.8476174420 
+   Correlation energy                        -0.9251331505 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7727505925 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.7954910489 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 52
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3787888281
+        Electronic Contribution:
+                  0    
+      0       0.450383
+      1      -0.302329
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.450383
+      1      -0.302329
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 53
+   prop. index: 1
+        SCF Energy:     -224.7713979061
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 53
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999980465 
+   Number of Beta  Electrons                 11.9999980465 
+   Total number of  Electrons                23.9999960930 
+   Exchange energy                          -24.8566213592 
+   Correlation energy                        -0.9258714440 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7824928032 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.7713979061 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 53
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3324246357
+        Electronic Contribution:
+                  0    
+      0       0.437720
+      1      -0.288431
+      2      -0.000002
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.437720
+      1      -0.288431
+      2      -0.000002
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 54
+   prop. index: 1
+        SCF Energy:     -225.1560577667
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 54
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999985884 
+   Number of Beta  Electrons                 11.9999985884 
+   Total number of  Electrons                23.9999971768 
+   Exchange energy                          -24.8190960694 
+   Correlation energy                        -0.9274550800 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7465511494 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1560577667 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 54
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0737595296
+        Electronic Contribution:
+                  0    
+      0       0.025036
+      1      -0.014672
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.025036
+      1      -0.014672
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 55
+   prop. index: 1
+        SCF Energy:     -225.1541751278
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 55
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999988636 
+   Number of Beta  Electrons                 11.9999988636 
+   Total number of  Electrons                23.9999977271 
+   Exchange energy                          -24.8274036215 
+   Correlation energy                        -0.9283145884 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7557182099 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1541751278 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 55
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0638408126
+        Electronic Contribution:
+                  0    
+      0       0.021214
+      1      -0.013446
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.021214
+      1      -0.013446
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 56
+   prop. index: 1
+        SCF Energy:     -225.1516674688
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 56
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999989170 
+   Number of Beta  Electrons                 11.9999989170 
+   Total number of  Electrons                23.9999978339 
+   Exchange energy                          -24.8359902095 
+   Correlation energy                        -0.9291917472 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7651819567 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1516674688 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 56
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0508895502
+        Electronic Contribution:
+                  0    
+      0       0.016943
+      1      -0.010667
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.016943
+      1      -0.010667
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 57
+   prop. index: 1
+        SCF Energy:     -225.1484624122
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 57
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999988089 
+   Number of Beta  Electrons                 11.9999988089 
+   Total number of  Electrons                23.9999976177 
+   Exchange energy                          -24.8451265246 
+   Correlation energy                        -0.9300881312 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7752146559 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1484624122 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 57
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0379611363
+        Electronic Contribution:
+                  0    
+      0       0.012756
+      1      -0.007767
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.012756
+      1      -0.007767
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 58
+   prop. index: 1
+        SCF Energy:     -225.1444779515
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 58
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999986437 
+   Number of Beta  Electrons                 11.9999986437 
+   Total number of  Electrons                23.9999972875 
+   Exchange energy                          -24.8548029106 
+   Correlation energy                        -0.9310029226 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7858058331 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1444779515 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 58
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0246957250
+        Electronic Contribution:
+                  0    
+      0       0.008330
+      1      -0.005002
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.008330
+      1      -0.005002
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 59
+   prop. index: 1
+        SCF Energy:     -225.1396211833
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 59
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999985015 
+   Number of Beta  Electrons                 11.9999985015 
+   Total number of  Electrons                23.9999970030 
+   Exchange energy                          -24.8650492221 
+   Correlation energy                        -0.9319357959 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.7969850180 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1396211833 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 59
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0111659961
+        Electronic Contribution:
+                  0    
+      0       0.003790
+      1      -0.002220
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.003790
+      1      -0.002220
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 60
+   prop. index: 1
+        SCF Energy:     -225.1337864623
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 60
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999984037 
+   Number of Beta  Electrons                 11.9999984037 
+   Total number of  Electrons                23.9999968074 
+   Exchange energy                          -24.8758974652 
+   Correlation energy                        -0.9328863804 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8087838457 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1337864623 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 60
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0026235256
+        Electronic Contribution:
+                  0    
+      0      -0.000892
+      1       0.000520
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.000892
+      1       0.000520
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 61
+   prop. index: 1
+        SCF Energy:     -225.1268535456
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 61
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999983244 
+   Number of Beta  Electrons                 11.9999983244 
+   Total number of  Electrons                23.9999966487 
+   Exchange energy                          -24.8873819915 
+   Correlation energy                        -0.9338542251 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8212362166 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1268535456 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 61
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0166648963
+        Electronic Contribution:
+                  0    
+      0      -0.005708
+      1       0.003225
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.005708
+      1       0.003225
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 62
+   prop. index: 1
+        SCF Energy:     -225.1186856331
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 62
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999982136 
+   Number of Beta  Electrons                 11.9999982136 
+   Total number of  Electrons                23.9999964272 
+   Exchange energy                          -24.8995400299 
+   Correlation energy                        -0.9348388321 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8343788620 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1186856331 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 62
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0309622945
+        Electronic Contribution:
+                  0    
+      0      -0.010660
+      1       0.005895
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.010660
+      1       0.005895
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 63
+   prop. index: 1
+        SCF Energy:     -225.1091271564
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 63
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999980170 
+   Number of Beta  Electrons                 11.9999980170 
+   Total number of  Electrons                23.9999960340 
+   Exchange energy                          -24.9124120962 
+   Correlation energy                        -0.9358396651 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8482517613 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.1091271564 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 63
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0455305274
+        Electronic Contribution:
+                  0    
+      0      -0.015752
+      1       0.008529
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.015752
+      1       0.008529
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 64
+   prop. index: 1
+        SCF Energy:     -225.0980013513
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 64
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999977087 
+   Number of Beta  Electrons                 11.9999977087 
+   Total number of  Electrons                23.9999954175 
+   Exchange energy                          -24.9260425627 
+   Correlation energy                        -0.9368560573 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8628986200 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0980013513 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 64
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0603964606
+        Electronic Contribution:
+                  0    
+      0      -0.020993
+      1       0.011131
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.020993
+      1       0.011131
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 65
+   prop. index: 1
+        SCF Energy:     -225.0851077123
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 65
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999973458 
+   Number of Beta  Electrons                 11.9999973458 
+   Total number of  Electrons                23.9999946916 
+   Exchange energy                          -24.9404804083 
+   Correlation energy                        -0.9378871725 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8783675808 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0851077123 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 65
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0756005590
+        Electronic Contribution:
+                  0    
+      0      -0.026398
+      1       0.013704
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.026398
+      1       0.013704
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 66
+   prop. index: 1
+        SCF Energy:     -225.0702190840
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 66
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999970970 
+   Number of Beta  Electrons                 11.9999970970 
+   Total number of  Electrons                23.9999941940 
+   Exchange energy                          -24.9557797770 
+   Correlation energy                        -0.9389322202 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.8947119972 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0702190840 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 66
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0911979657
+        Electronic Contribution:
+                  0    
+      0      -0.031985
+      1       0.016256
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.031985
+      1       0.016256
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 67
+   prop. index: 1
+        SCF Energy:     -225.0530777067
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 67
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999971656 
+   Number of Beta  Electrons                 11.9999971656 
+   Total number of  Electrons                23.9999943313 
+   Exchange energy                          -24.9719999891 
+   Correlation energy                        -0.9399906874 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.9119906766 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0530777067 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 67
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1072599422
+        Electronic Contribution:
+                  0    
+      0      -0.037782
+      1       0.018794
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.037782
+      1       0.018794
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 68
+   prop. index: 1
+        SCF Energy:     -225.0333899462
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 68
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999976082 
+   Number of Beta  Electrons                 11.9999976082 
+   Total number of  Electrons                23.9999952165 
+   Exchange energy                          -24.9892049387 
+   Correlation energy                        -0.9410622357 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.9302671744 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0333899462 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 68
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1238744796
+        Electronic Contribution:
+                  0    
+      0      -0.043821
+      1       0.021327
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.043821
+      1       0.021327
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 69
+   prop. index: 1
+        SCF Energy:     -225.0108204641
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 69
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999982210 
+   Number of Beta  Electrons                 11.9999982210 
+   Total number of  Electrons                23.9999964420 
+   Exchange energy                          -25.0074626895 
+   Correlation energy                        -0.9421462718 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.9496089613 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -225.0108204641 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 69
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1411458614
+        Electronic Contribution:
+                  0    
+      0      -0.050138
+      1       0.023869
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.050138
+      1       0.023869
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 70
+   prop. index: 1
+        SCF Energy:     -224.9849869265
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 70
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999986789 
+   Number of Beta  Electrons                 11.9999986789 
+   Total number of  Electrons                23.9999973578 
+   Exchange energy                          -25.0268460864 
+   Correlation energy                        -0.9432416881 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.9700877745 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9849869265 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 70
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1591943476
+        Electronic Contribution:
+                  0    
+      0      -0.056780
+      1       0.026431
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.056780
+      1       0.026431
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 71
+   prop. index: 1
+        SCF Energy:     -224.9554551207
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 71
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999988590 
+   Number of Beta  Electrons                 11.9999988590 
+   Total number of  Electrons                23.9999977180 
+   Exchange energy                          -25.0474341517 
+   Correlation energy                        -0.9443471402 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -25.9917812919 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9554551207 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 71
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1781550669
+        Electronic Contribution:
+                  0    
+      0      -0.063796
+      1       0.029029
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.063796
+      1       0.029029
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 72
+   prop. index: 1
+        SCF Energy:     -224.9217327945
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 72
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999990099 
+   Number of Beta  Electrons                 11.9999990099 
+   Total number of  Electrons                23.9999980197 
+   Exchange energy                          -25.0693128325 
+   Correlation energy                        -0.9454617274 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.0147745599 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.9217327945 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 72
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1981765355
+        Electronic Contribution:
+                  0    
+      0      -0.071242
+      1       0.031676
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.071242
+      1       0.031676
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 73
+   prop. index: 1
+        SCF Energy:     -224.8832602226
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 73
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999994994 
+   Number of Beta  Electrons                 11.9999994994 
+   Total number of  Electrons                23.9999989989 
+   Exchange energy                          -25.0925738249 
+   Correlation energy                        -0.9465853173 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.0391591422 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.8832602226 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 73
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.2194174135
+        Electronic Contribution:
+                  0    
+      0      -0.079179
+      1       0.034387
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.079179
+      1       0.034387
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 74
+   prop. index: 1
+        SCF Energy:     -224.8393976601
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 74
+   prop. index: 1
+   Number of Alpha Electrons                 12.0000003173 
+   Number of Beta  Electrons                 12.0000003173 
+   Total number of  Electrons                24.0000006346 
+   Exchange energy                          -25.1173729148 
+   Correlation energy                        -0.9477175211 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.0650904359 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.8393976601 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 74
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.2417588194
+        Electronic Contribution:
+                  0    
+      0      -0.087572
+      1       0.037118
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.087572
+      1       0.037118
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 75
+   prop. index: 1
+        SCF Energy:     -224.7894132585
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 75
+   prop. index: 1
+   Number of Alpha Electrons                 12.0000009120 
+   Number of Beta  Electrons                 12.0000009120 
+   Total number of  Electrons                24.0000018240 
+   Exchange energy                          -25.1436945467 
+   Correlation energy                        -0.9488560647 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.0925506113 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.7894132585 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 75
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.2659176453
+        Electronic Contribution:
+                  0    
+      0      -0.096670
+      1       0.039998
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.096670
+      1       0.039998
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 76
+   prop. index: 1
+        SCF Energy:     -224.7324737971
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 76
+   prop. index: 1
+   Number of Alpha Electrons                 12.0000007513 
+   Number of Beta  Electrons                 12.0000007513 
+   Total number of  Electrons                24.0000015027 
+   Exchange energy                          -25.1716953633 
+   Correlation energy                        -0.9499983417 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.1216937050 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.7324737971 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 76
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.2917765756
+        Electronic Contribution:
+                  0    
+      0      -0.106446
+      1       0.042969
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.106446
+      1       0.042969
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 77
+   prop. index: 1
+        SCF Energy:     -224.6676335515
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 77
+   prop. index: 1
+   Number of Alpha Electrons                 12.0000000726 
+   Number of Beta  Electrons                 12.0000000726 
+   Total number of  Electrons                24.0000001453 
+   Exchange energy                          -25.2014872736 
+   Correlation energy                        -0.9511433812 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.1526306548 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.6676335515 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 77
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.3194732777
+        Electronic Contribution:
+                  0    
+      0      -0.116952
+      1       0.046040
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.116952
+      1       0.046040
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 78
+   prop. index: 1
+        SCF Energy:     -224.5938154318
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 78
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999996423 
+   Number of Beta  Electrons                 11.9999996423 
+   Total number of  Electrons                23.9999992846 
+   Exchange energy                          -25.2331865015 
+   Correlation energy                        -0.9522907053 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.1854772069 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.5938154318 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 78
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.3491211082
+        Electronic Contribution:
+                  0    
+      0      -0.128235
+      1       0.049206
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.128235
+      1       0.049206
+      2      -0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 79
+   prop. index: 1
+        SCF Energy:     -224.5097873271
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 79
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999995707 
+   Number of Beta  Electrons                 11.9999995707 
+   Total number of  Electrons                23.9999991413 
+   Exchange energy                          -25.2669123531 
+   Correlation energy                        -0.9534371998 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.2203495529 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.5097873271 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 79
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.3807952352
+        Electronic Contribution:
+                  0    
+      0      -0.140328
+      1       0.052460
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.140328
+      1       0.052460
+      2       0.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 80
+   prop. index: 1
+        SCF Energy:     -224.4141414972
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 80
+   prop. index: 1
+   Number of Alpha Electrons                 11.9999991343 
+   Number of Beta  Electrons                 11.9999991343 
+   Total number of  Electrons                23.9999982685 
+   Exchange energy                          -25.3027871338 
+   Correlation energy                        -0.9545783198 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -26.2573654536 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -224.4141414972 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 80
+   prop. index: 1
+       Filename                          : O3.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.4145204511
+        Electronic Contribution:
+                  0    
+      0      -0.153244
+      1       0.055784
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.153244
+      1       0.055784
+      2       0.000000
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     1 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.843228705012    1.100498660307    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     2 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.824098612726    1.110595645701    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     3 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.804796681727    1.120360122370    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     4 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.785328690949    1.129789166859    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     5 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.765700469045    1.138879956144    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     6 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.745917892641    1.147629768471    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     7 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.725986884577    1.156035984176    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     8 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.705913412132    1.164096086464    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     9 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.685703485237    1.171807662168    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     10 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.665363154680    1.179168402466    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     11 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.644898510289    1.186176103577    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     12 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.624315679112    1.192828667418    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     13 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.603620823582    1.199124102234    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     14 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.582820139671    1.205060523190    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     15 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.561919855037    1.210636152942    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     16 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.540926227157    1.215849322165    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     17 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.519845541455    1.220698470053    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     18 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.498684109419    1.225182144786    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     19 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.477448266714    1.229299003967    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     20 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.456144371281    1.233047815022    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     21 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.434778801439    1.236427455569    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     22 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.413357953968    1.239436913755    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     23 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.391888242202    1.242075288557    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     24 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.370376094102    1.244341790054    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     25 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.348827950335    1.246235739664    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     26 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.327250262346    1.247756570344    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     27 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.305649490424    1.248903826762    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     28 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.284032101770    1.249677165434    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     29 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.262404568560    1.250076354824    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     30 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.240773366007    1.250101275417    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     31 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.219144970423    1.249751919751    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     32 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.197525857279    1.249028392422    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     33 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.175922499268    1.247930910052    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     34 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.154341364364    1.246459801223    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     35 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.132788913889    1.244615506382    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     36 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.111271600578    1.242398577703    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     37 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.089795866642    1.239809678927    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     38 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.068368141849    1.236849585164    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     39 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.046994841588    1.233519182655    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     40 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.025682364956    1.229819468512    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     41 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      1.004437092840    1.225751550417    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     42 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.983265386004    1.221316646292    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     43 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.962173583190    1.216516083933    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     44 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.941167999214    1.211351300612    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     45 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.920254923080    1.205823842649    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     46 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.899440616095    1.199935364946    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     47 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.878731309995    1.193687630496    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     48 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.858133205079    1.187082509848    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     49 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.837652468351    1.180121980555    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     50 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.817295231680    1.172808126577    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     51 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.797067589954    1.165143137658    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     52 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.776975599264    1.157129308671    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     53 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.757025275087    1.148769038929    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     54 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.737222590485    1.140064831471    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     55 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.717573474318    1.131019292307    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     56 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.698083809466    1.121635129644    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     57 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.678759431073    1.111915153069    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     58 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.659606124794    1.101862272710    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     59 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.640629625066    1.091479498369    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     60 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.621835613394    1.080769938613    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     61 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.603229716641    1.069736799850    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     62 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.584817505354    1.058383385366    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     63 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.566604492089    1.046713094337    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     64 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.548596129762    1.034729420809    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     65 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.530797810018    1.022435952656    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     66 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.513214861618    1.009836370502    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     67 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.495852548837    0.996934446620    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     68 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.478716069897    0.983734043806    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     69 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.461810555404    0.970239114216    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     70 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.445141066813    0.956453698189    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     71 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.428712594916    0.942381923033    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     72 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.412530058343    0.928028001793    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     73 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.396598302093    0.913396231985    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     74 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.380922096082    0.898490994314    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     75 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.365506133715    0.883316751360    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     76 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.350355030483    0.867878046241    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     77 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.335473322574    0.852179501256    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     78 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.320865465525    0.836225816498    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     79 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.306535832880    0.820021768448    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     80 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 O      1.250148781330    0.000000000000    0.000000000000
+               2 O      0.292488714886    0.803572208547    0.000000000000
