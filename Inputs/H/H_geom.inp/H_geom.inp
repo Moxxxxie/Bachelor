@@ -1,0 +1,21 @@
+!RKS PBE TZVP
+!PMODEL
+!XYZfile
+!TightSCF
+!PAL2
+
+!OPT
+!NumFreq
+
+
+
+%method
+	Grid	2
+	FinalGrid	4
+end
+
+
+*xyz 0 1
+	H 0.0	0.0 	0.0
+	H 0.0	0.0 	0.5
+*
