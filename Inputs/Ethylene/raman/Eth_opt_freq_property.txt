@@ -1,0 +1,277 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -77.5999067613
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 1
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 5
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.4248     6.0000    -0.4248     3.7628     3.7628     0.0000
+  1   0     6.4248     6.0000    -0.4248     3.7628     3.7628     0.0000
+  2   0     0.7876     1.0000     0.2124     0.9247     0.9247     0.0000
+  3   0     0.7876     1.0000     0.2124     0.9247     0.9247    -0.0000
+  4   0     0.7876     1.0000     0.2124     0.9247     0.9247     0.0000
+  5   0     0.7876     1.0000     0.2124     0.9247     0.9247     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1            6                1.918488
+                0             6               2            1                0.940742
+                0             6               3            1                0.940742
+                1             6               4            1                0.940742
+                1             6               5            1                0.940742
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:      -77.6009024342
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:      -77.6009622437
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:      -77.6009880782
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 5
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:      -77.6009881979
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 5
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 5
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.4254     6.0000    -0.4254     3.7638     3.7638    -0.0000
+  1   0     6.4254     6.0000    -0.4254     3.7638     3.7638     0.0000
+  2   0     0.7873     1.0000     0.2127     0.9229     0.9229     0.0000
+  3   0     0.7873     1.0000     0.2127     0.9229     0.9229    -0.0000
+  4   0     0.7873     1.0000     0.2127     0.9229     0.9229    -0.0000
+  5   0     0.7873     1.0000     0.2127     0.9229     0.9229     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1            6                1.921351
+                0             6               2            1                0.941384
+                0             6               3            1                0.941384
+                1             6               4            1                0.941384
+                1             6               5            1                0.941384
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 5
+   prop. index: 1
+       Filename                          : Eth_opt_freq.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : true 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2      -0.000000
+        Total Dipole moment:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2      -0.000000
+** Polarizabilities part of electric properties **
+        Isotropic polarizability :       18.3416072284
+        The raw cartesian tensor (atomic units):
+                  0          1          2    
+      0      30.728946   0.000000  -0.000000
+      1       0.000000  18.502034  -0.000000
+      2      -0.000000  -0.000000   5.793842
+        Diagonalised polarizability tensor :
+                  0    
+      0       5.793842
+      1      18.502034
+      2      30.728946
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 6
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:      -77.6009881978
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 6
+   prop. index: 1
+        Temperature (Kelvin)           :        298.1500000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         28.0540000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :        -77.6009881978
+        Translational Energy (Hartree) :          0.0014162714
+        Rotational Energy (Hartree)    :          0.0014162714
+        Vibrational Energy (Hartree)   :          0.0001247466
+        Number of frequencies          :     18      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     943.204419
+      7     1114.781949
+      8     1156.592565
+      9     1165.634354
+     10     1387.015744
+     11     1521.852419
+     12     1639.646848
+     13     1841.470238
+     14     3304.964941
+     15     3326.463384
+     16     3370.621027
+     17     3402.193409
+        Zero Point Energy (Hartree)    :          0.0550734296
+        Inner Energy (Hartree)         :        -77.5429574787
+        Enthalpy (Hartree)             :        -77.5420132696
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0075024786
+        Vibrational entropy            :          0.0001484219
+        Translational entropy          :          0.0075024786
+        Entropy                        :          0.0247220064
+        Gibbs Energy (Hartree)         :        -77.5667352761
+        Is Linear                      :                 false
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     1 
+    Coordinates:
+               0 C      0.000000000000    0.000000000000    0.000000000000
+               1 C      1.335790000000    0.000000000000    0.000000000000
+               2 H     -0.559884654741    0.929955758886    0.000000000000
+               3 H     -0.559884654741   -0.929955758886   -0.000000000000
+               4 H      1.895674654741    0.929955758886    0.000000000000
+               5 H      1.895674654741   -0.929955758886    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     2 
+    Coordinates:
+               0 C      0.008975072986    0.000000000000   -0.000000000000
+               1 C      1.326814927014    0.000000000000   -0.000000000000
+               2 H     -0.548678953461    0.915867262767    0.000000000000
+               3 H     -0.548678953461   -0.915867262767    0.000000000000
+               4 H      1.884468953462    0.915867262767    0.000000000000
+               5 H      1.884468953461   -0.915867262767    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     3 
+    Coordinates:
+               0 C      0.010195474346    0.000000000000    0.000000000000
+               1 C      1.325594525653    0.000000000000    0.000000000000
+               2 H     -0.551776788497    0.914048415947   -0.000000000000
+               3 H     -0.551776788497   -0.914048415947   -0.000000000000
+               4 H      1.887566788497    0.914048415947   -0.000000000000
+               5 H      1.887566788497   -0.914048415947   -0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     4 
+    Coordinates:
+               0 C      0.010548709698    0.000000000000   -0.000000000000
+               1 C      1.325241290302    0.000000000000   -0.000000000000
+               2 H     -0.556749970916    0.911555450124    0.000000000000
+               3 H     -0.556749970916   -0.911555450124    0.000000000000
+               4 H      1.892539970916    0.911555450124    0.000000000000
+               5 H      1.892539970916   -0.911555450124    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     5 
+    Coordinates:
+               0 C      0.010441138918    0.000000000000    0.000000000000
+               1 C      1.325348861082    0.000000000000    0.000000000000
+               2 H     -0.557015964720    0.911432457044   -0.000000000000
+               3 H     -0.557015964719   -0.911432457044   -0.000000000000
+               4 H      1.892805964720    0.911432457044   -0.000000000000
+               5 H      1.892805964719   -0.911432457044   -0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     6 
+    Coordinates:
+               0 C      0.010441138918    0.000000000000    0.000000000000
+               1 C      1.325348861082    0.000000000000    0.000000000000
+               2 H     -0.557015964720    0.911432457044   -0.000000000000
+               3 H     -0.557015964719   -0.911432457044   -0.000000000000
+               4 H      1.892805964720    0.911432457044   -0.000000000000
+               5 H      1.892805964719   -0.911432457044   -0.000000000000
