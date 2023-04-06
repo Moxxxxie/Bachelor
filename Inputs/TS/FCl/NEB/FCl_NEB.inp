@@ -1,0 +1,8 @@
+!NEB 
+!PAL2
+%neb
+	NEB_End_XYZFile "prod.xyz"
+	Nimages 6
+end
+*xyzfile -1 1 react.xyz
+

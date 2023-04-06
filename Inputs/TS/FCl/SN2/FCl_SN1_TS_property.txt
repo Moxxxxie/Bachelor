@@ -1,0 +1,3100 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -33.1446585922
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 1
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 10
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.5294     4.0000    -2.5294     1.8907    13.8928   -12.0021
+  1   0     7.8013     7.0000    -0.8013     0.3537     6.4113    -6.0576
+  2   0     1.6415     1.0000    -0.6415     0.5885     3.7168    -3.1283
+  3   0     1.6459     1.0000    -0.6459     0.5829     3.7164    -3.1335
+  4   0     1.6429     1.0000    -0.6429     0.5866     3.7166    -3.1300
+  5   0     7.9964     7.0000    -0.9964     0.0072     0.0154    -0.0082
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                5.200530
+                0             6               2            1                2.897374
+                0             6               3            1                2.897788
+                0             6               4            1                2.897544
+                1            17               2            1                0.403389
+                1            17               3            1                0.403602
+                1            17               4            1                0.403464
+                2             1               3            1                0.205144
+                2             1               4            1                0.205252
+                3             1               4            1                0.205106
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:      -33.5718040885
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:      -33.7514140098
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:      -33.8210767443
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:      -33.8517329215
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:      -33.8637076160
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 7
+   prop. index: 1
+        SCF Energy:      -33.8675507939
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 8
+   prop. index: 1
+        SCF Energy:      -33.8687002322
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 9
+   prop. index: 1
+        SCF Energy:      -33.8692001629
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 10
+   prop. index: 1
+        SCF Energy:      -33.8694631190
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 11
+   prop. index: 1
+        SCF Energy:      -33.8695401662
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 12
+   prop. index: 1
+        SCF Energy:      -33.8695506054
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 13
+   prop. index: 1
+        SCF Energy:      -33.8695514410
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 14
+   prop. index: 1
+        SCF Energy:      -33.8695518605
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 14
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2748     4.0000    -2.2748     1.9973    10.7199    -8.7226
+  1   0     7.6048     7.0000    -0.6048     0.6328     2.2437    -1.6109
+  2   0     1.5591     1.0000    -0.5591     0.6874     3.2796    -2.5922
+  3   0     1.5653     1.0000    -0.5653     0.6804     3.2822    -2.6018
+  4   0     1.5612     1.0000    -0.5612     0.6850     3.2805    -2.5955
+  5   0     7.9944     7.0000    -0.9944     0.0112     0.0196    -0.0084
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                2.085966
+                0             6               2            1                2.875845
+                0             6               3            1                2.880157
+                0             6               4            1                2.877375
+                2             1               3            1                0.172247
+                2             1               4            1                0.172951
+                3             1               4            1                0.171988
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 14
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.2815285423
+        Electronic Contribution:
+                  0    
+      0      27.268376
+      1      -0.006311
+      2       0.003046
+        Nuclear Contribution:
+                  0    
+      0     -21.258556
+      1      -0.019900
+      2       0.160194
+        Total Dipole moment:
+                  0    
+      0       6.009820
+      1      -0.026211
+      2       0.163241
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 15
+   prop. index: 1
+        SCF Energy:      -33.8691605655
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 15
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2222     4.0000    -2.2222     2.0199    10.6617    -8.6418
+  1   0     7.6319     7.0000    -0.6319     0.5990     2.2656    -1.6666
+  2   0     1.5607     1.0000    -0.5607     0.6856     3.2317    -2.5461
+  3   0     1.5652     1.0000    -0.5652     0.6805     3.2282    -2.5477
+  4   0     1.5622     1.0000    -0.5622     0.6839     3.2306    -2.5467
+  5   0     7.9937     7.0000    -0.9937     0.0126     0.0234    -0.0108
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                2.069059
+                0             6               2            1                2.864348
+                0             6               3            1                2.861999
+                0             6               4            1                2.863637
+                2             1               3            1                0.147656
+                2             1               4            1                0.147613
+                3             1               4            1                0.147705
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 16
+   prop. index: 1
+        SCF Energy:      -33.8703091495
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 17
+   prop. index: 1
+        SCF Energy:      -33.8706421009
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 18
+   prop. index: 1
+        SCF Energy:      -33.8707289400
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 19
+   prop. index: 1
+        SCF Energy:      -33.8707913736
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 20
+   prop. index: 1
+        SCF Energy:      -33.8707952632
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 21
+   prop. index: 1
+        SCF Energy:      -33.8707954927
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 21
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2643     4.0000    -2.2643     1.9956    10.6973    -8.7017
+  1   0     7.6118     7.0000    -0.6118     0.6243     2.2230    -1.5987
+  2   0     1.5581     1.0000    -0.5581     0.6885     3.2788    -2.5903
+  3   0     1.5656     1.0000    -0.5656     0.6801     3.2819    -2.6018
+  4   0     1.5607     1.0000    -0.5607     0.6856     3.2800    -2.5944
+  5   0     7.9919     7.0000    -0.9919     0.0162     0.0294    -0.0132
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                2.066424
+                0             6               2            1                2.873696
+                0             6               3            1                2.879333
+                0             6               4            1                2.875747
+                2             1               3            1                0.171738
+                2             1               4            1                0.172628
+                3             1               4            1                0.171416
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 21
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.5385041557
+        Electronic Contribution:
+                  0    
+      0      27.088018
+      1      -0.015993
+      2       0.053465
+        Nuclear Contribution:
+                  0    
+      0     -20.977715
+      1      -0.014822
+      2       0.131983
+        Total Dipole moment:
+                  0    
+      0       6.110303
+      1      -0.030815
+      2       0.185448
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 22
+   prop. index: 1
+        SCF Energy:      -33.8701494158
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 22
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2083     4.0000    -2.2083     2.0205    10.6336    -8.6131
+  1   0     7.6399     7.0000    -0.6399     0.5888     2.2412    -1.6524
+  2   0     1.5596     1.0000    -0.5596     0.6868     3.2284    -2.5416
+  3   0     1.5652     1.0000    -0.5652     0.6805     3.2247    -2.5442
+  4   0     1.5616     1.0000    -0.5616     0.6846     3.2272    -2.5426
+  5   0     7.9906     7.0000    -0.9906     0.0188     0.0360    -0.0172
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                2.046583
+                0             6               2            1                2.860869
+                0             6               3            1                2.859188
+                0             6               4            1                2.860424
+                2             1               3            1                0.146733
+                2             1               4            1                0.146787
+                3             1               4            1                0.146756
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 23
+   prop. index: 1
+        SCF Energy:      -33.8712561605
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 24
+   prop. index: 1
+        SCF Energy:      -33.8715409456
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 25
+   prop. index: 1
+        SCF Energy:      -33.8716139976
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 26
+   prop. index: 1
+        SCF Energy:      -33.8716705805
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 27
+   prop. index: 1
+        SCF Energy:      -33.8716744571
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 28
+   prop. index: 1
+        SCF Energy:      -33.8716748168
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 28
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2480     4.0000    -2.2480     1.9947    10.6667    -8.6720
+  1   0     7.6209     7.0000    -0.6209     0.6131     2.1940    -1.5809
+  2   0     1.5584     1.0000    -0.5584     0.6882     3.2763    -2.5881
+  3   0     1.5653     1.0000    -0.5653     0.6805     3.2792    -2.5987
+  4   0     1.5608     1.0000    -0.5608     0.6856     3.2775    -2.5919
+  5   0     7.9884     7.0000    -0.9884     0.0232     0.0437    -0.0205
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                2.037258
+                0             6               2            1                2.872033
+                0             6               3            1                2.877684
+                0             6               4            1                2.874073
+                2             1               3            1                0.169838
+                2             1               4            1                0.170570
+                3             1               4            1                0.169580
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 28
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.7529419792
+        Electronic Contribution:
+                  0    
+      0      26.897668
+      1      -0.005070
+      2      -0.020131
+        Nuclear Contribution:
+                  0    
+      0     -20.701650
+      1      -0.018432
+      2       0.156313
+        Total Dipole moment:
+                  0    
+      0       6.196018
+      1      -0.023502
+      2       0.136181
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 29
+   prop. index: 1
+        SCF Energy:      -33.8703986941
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 29
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.1883     4.0000    -2.1883     2.0223    10.5970    -8.5747
+  1   0     7.6506     7.0000    -0.6506     0.5750     2.2072    -1.6322
+  2   0     1.5594     1.0000    -0.5594     0.6871     3.2223    -2.5352
+  3   0     1.5648     1.0000    -0.5648     0.6810     3.2195    -2.5385
+  4   0     1.5612     1.0000    -0.5612     0.6850     3.2214    -2.5364
+  5   0     7.9859     7.0000    -0.9859     0.0281     0.0551    -0.0270
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                2.012934
+                0             6               2            1                2.856616
+                0             6               3            1                2.856122
+                0             6               4            1                2.856560
+                2             1               3            1                0.144459
+                2             1               4            1                0.144516
+                3             1               4            1                0.144487
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 30
+   prop. index: 1
+        SCF Energy:      -33.8714702635
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 31
+   prop. index: 1
+        SCF Energy:      -33.8716937775
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 32
+   prop. index: 1
+        SCF Energy:      -33.8717462670
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 33
+   prop. index: 1
+        SCF Energy:      -33.8717935183
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 34
+   prop. index: 1
+        SCF Energy:      -33.8717973794
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 35
+   prop. index: 1
+        SCF Energy:      -33.8717981042
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 35
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2221     4.0000    -2.2221     1.9954    10.6231    -8.6277
+  1   0     7.6330     7.0000    -0.6330     0.5978     2.1492    -1.5514
+  2   0     1.5602     1.0000    -0.5602     0.6862     3.2707    -2.5845
+  3   0     1.5646     1.0000    -0.5646     0.6812     3.2726    -2.5914
+  4   0     1.5617     1.0000    -0.5617     0.6845     3.2715    -2.5870
+  5   0     7.9832     7.0000    -0.9832     0.0333     0.0647    -0.0314
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.990872
+                0             6               2            1                2.871195
+                0             6               3            1                2.875026
+                0             6               4            1                2.872570
+                2             1               3            1                0.165837
+                2             1               4            1                0.166181
+                3             1               4            1                0.165717
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 35
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.9149276963
+        Electronic Contribution:
+                  0    
+      0      26.697748
+      1       0.017635
+      2      -0.180968
+        Nuclear Contribution:
+                  0    
+      0     -20.436568
+      1      -0.026835
+      2       0.216435
+        Total Dipole moment:
+                  0    
+      0       6.261180
+      1      -0.009199
+      2       0.035467
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 36
+   prop. index: 1
+        SCF Energy:      -33.8695943108
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 36
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.1585     4.0000    -2.1585     2.0261    10.5476    -8.5215
+  1   0     7.6654     7.0000    -0.6654     0.5556     2.1553    -1.5997
+  2   0     1.5604     1.0000    -0.5604     0.6860     3.2122    -2.5262
+  3   0     1.5639     1.0000    -0.5639     0.6821     3.2109    -2.5288
+  4   0     1.5616     1.0000    -0.5616     0.6846     3.2118    -2.5272
+  5   0     7.9783     7.0000    -0.9783     0.0429     0.0851    -0.0422
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.959257
+                0             6               2            1                2.852045
+                0             6               3            1                2.852316
+                0             6               4            1                2.852179
+                2             1               3            1                0.140269
+                2             1               4            1                0.140270
+                3             1               4            1                0.140309
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 37
+   prop. index: 1
+        SCF Energy:      -33.8706512255
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 38
+   prop. index: 1
+        SCF Energy:      -33.8708103194
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 39
+   prop. index: 1
+        SCF Energy:      -33.8708375811
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 40
+   prop. index: 1
+        SCF Energy:      -33.8708687013
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 41
+   prop. index: 1
+        SCF Energy:      -33.8708711581
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 42
+   prop. index: 1
+        SCF Energy:      -33.8708714765
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 42
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.1811     4.0000    -2.1811     1.9983    10.5599    -8.5616
+  1   0     7.6500     7.0000    -0.6500     0.5761     2.0758    -1.4997
+  2   0     1.5630     1.0000    -0.5630     0.6830     3.2601    -2.5771
+  3   0     1.5651     1.0000    -0.5651     0.6807     3.2611    -2.5804
+  4   0     1.5638     1.0000    -0.5638     0.6821     3.2605    -2.5784
+  5   0     7.9751     7.0000    -0.9751     0.0493     0.0971    -0.0478
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.914327
+                0             6               2            1                2.870686
+                0             6               3            1                2.872580
+                0             6               4            1                2.871403
+                2             1               3            1                0.159016
+                2             1               4            1                0.159088
+                3             1               4            1                0.159003
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 42
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       16.0031629356
+        Electronic Contribution:
+                  0    
+      0      26.492714
+      1       0.033988
+      2      -0.294810
+        Nuclear Contribution:
+                  0    
+      0     -20.196824
+      1      -0.032678
+      2       0.257484
+        Total Dipole moment:
+                  0    
+      0       6.295890
+      1       0.001310
+      2      -0.037326
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 43
+   prop. index: 1
+        SCF Energy:      -33.8676862186
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 43
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.1143     4.0000    -2.1143     2.0324    10.4804    -8.4480
+  1   0     7.6865     7.0000    -0.6865     0.5272     2.0705    -1.5433
+  2   0     1.5622     1.0000    -0.5622     0.6840     3.1975    -2.5135
+  3   0     1.5639     1.0000    -0.5639     0.6820     3.1969    -2.5149
+  4   0     1.5628     1.0000    -0.5628     0.6832     3.1972    -2.5140
+  5   0     7.9654     7.0000    -0.9654     0.0683     0.1341    -0.0658
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.870558
+                0             6               2            1                2.847497
+                0             6               3            1                2.847799
+                0             6               4            1                2.847615
+                2             1               3            1                0.133725
+                2             1               4            1                0.133682
+                3             1               4            1                0.133774
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 44
+   prop. index: 1
+        SCF Energy:      -33.8687934045
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 45
+   prop. index: 1
+        SCF Energy:      -33.8689050869
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 46
+   prop. index: 1
+        SCF Energy:      -33.8689122824
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 47
+   prop. index: 1
+        SCF Energy:      -33.8689239196
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 48
+   prop. index: 1
+        SCF Energy:      -33.8689249825
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 49
+   prop. index: 1
+        SCF Energy:      -33.8689250834
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 49
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.1202     4.0000    -2.1202     2.0028    10.4719    -8.4691
+  1   0     7.6751     7.0000    -0.6751     0.5430     1.9565    -1.4135
+  2   0     1.5667     1.0000    -0.5667     0.6789     3.2433    -2.5644
+  3   0     1.5677     1.0000    -0.5677     0.6777     3.2438    -2.5661
+  4   0     1.5671     1.0000    -0.5671     0.6784     3.2435    -2.5651
+  5   0     7.9607     7.0000    -0.9607     0.0773     0.1501    -0.0728
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.790316
+                0             6               2            1                2.870360
+                0             6               3            1                2.871293
+                0             6               4            1                2.870742
+                2             1               3            1                0.149164
+                2             1               4            1                0.149148
+                3             1               4            1                0.149193
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 49
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.9519845277
+        Electronic Contribution:
+                  0    
+      0      26.279812
+      1       0.040998
+      2      -0.336151
+        Nuclear Contribution:
+                  0    
+      0     -20.004288
+      1      -0.034969
+      2       0.270857
+        Total Dipole moment:
+                  0    
+      0       6.275524
+      1       0.006028
+      2      -0.065294
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 50
+   prop. index: 1
+        SCF Energy:      -33.8651008757
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 50
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.0533     4.0000    -2.0533     2.0414    10.3941    -8.3527
+  1   0     7.7175     7.0000    -0.7175     0.4838     1.9328    -1.4490
+  2   0     1.5649     1.0000    -0.5649     0.6809     3.1774    -2.4965
+  3   0     1.5657     1.0000    -0.5657     0.6799     3.1772    -2.4973
+  4   0     1.5652     1.0000    -0.5652     0.6805     3.1773    -2.4968
+  5   0     7.9419     7.0000    -0.9419     0.1131     0.2164    -0.1033
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.727142
+                0             6               2            1                2.843089
+                0             6               3            1                2.843239
+                0             6               4            1                2.843148
+                0             6               5            9                0.137488
+                2             1               3            1                0.124972
+                2             1               4            1                0.124923
+                3             1               4            1                0.125021
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 51
+   prop. index: 1
+        SCF Energy:      -33.8664085813
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 52
+   prop. index: 1
+        SCF Energy:      -33.8665052058
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 53
+   prop. index: 1
+        SCF Energy:      -33.8665066898
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 54
+   prop. index: 1
+        SCF Energy:      -33.8665091202
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 55
+   prop. index: 1
+        SCF Energy:      -33.8665100482
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 56
+   prop. index: 1
+        SCF Energy:      -33.8665102241
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 56
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.0267     4.0000    -2.0267     2.0067    10.3429    -8.3362
+  1   0     7.7165     7.0000    -0.7165     0.4855     1.7463    -1.2608
+  2   0     1.5725     1.0000    -0.5725     0.6722     3.2166    -2.5444
+  3   0     1.5731     1.0000    -0.5731     0.6715     3.2168    -2.5453
+  4   0     1.5728     1.0000    -0.5728     0.6719     3.2167    -2.5448
+  5   0     7.9316     7.0000    -0.9316     0.1325     0.2447    -0.1122
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.572604
+                0             6               2            1                2.871376
+                0             6               3            1                2.871825
+                0             6               4            1                2.871574
+                0             6               5            9                0.155511
+                2             1               3            1                0.135084
+                2             1               4            1                0.135054
+                3             1               4            1                0.135122
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 56
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.5809858970
+        Electronic Contribution:
+                  0    
+      0      26.037559
+      1       0.044014
+      2      -0.350102
+        Nuclear Contribution:
+                  0    
+      0     -19.908111
+      1      -0.035981
+      2       0.275543
+        Total Dipole moment:
+                  0    
+      0       6.129449
+      1       0.008033
+      2      -0.074559
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 57
+   prop. index: 1
+        SCF Energy:      -33.8632173267
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 57
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.9691     4.0000    -1.9691     2.0521    10.2763    -8.2242
+  1   0     7.7660     7.0000    -0.7660     0.4121     1.6955    -1.2834
+  2   0     1.5695     1.0000    -0.5695     0.6757     3.1506    -2.4749
+  3   0     1.5699     1.0000    -0.5699     0.6752     3.1504    -2.4752
+  4   0     1.5697     1.0000    -0.5697     0.6755     3.1505    -2.4750
+  5   0     7.8977     7.0000    -0.8977     0.1946     0.3584    -0.1638
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.481793
+                0             6               2            1                2.839355
+                0             6               3            1                2.839356
+                0             6               4            1                2.839352
+                0             6               5            9                0.276515
+                2             1               3            1                0.113764
+                2             1               4            1                0.113731
+                3             1               4            1                0.113802
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 58
+   prop. index: 1
+        SCF Energy:      -33.8650128062
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 59
+   prop. index: 1
+        SCF Energy:      -33.8651884021
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 60
+   prop. index: 1
+        SCF Energy:      -33.8653020387
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 61
+   prop. index: 1
+        SCF Energy:      -33.8654731310
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 62
+   prop. index: 1
+        SCF Energy:      -33.8655213789
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 63
+   prop. index: 1
+        SCF Energy:      -33.8655285637
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 64
+   prop. index: 1
+        SCF Energy:      -33.8655292078
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 65
+   prop. index: 1
+        SCF Energy:      -33.8655292147
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 65
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.8833     4.0000    -1.8833     1.9957    10.1304    -8.1347
+  1   0     7.7986     7.0000    -0.7986     0.3615     1.3321    -0.9706
+  2   0     1.5811     1.0000    -0.5811     0.6624     3.1778    -2.5154
+  3   0     1.5811     1.0000    -0.5811     0.6623     3.1778    -2.5155
+  4   0     1.5811     1.0000    -0.5811     0.6624     3.1779    -2.5155
+  5   0     7.8616     7.0000    -0.8616     0.2581     0.4368    -0.1787
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.142438
+                0             6               2            1                2.874929
+                0             6               3            1                2.874933
+                0             6               4            1                2.874928
+                0             6               5            9                0.363155
+                2             1               3            1                0.116286
+                2             1               4            1                0.116269
+                3             1               4            1                0.116314
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 65
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       14.2902620807
+        Electronic Contribution:
+                  0    
+      0      25.659634
+      1       0.048312
+      2      -0.362126
+        Nuclear Contribution:
+                  0    
+      0     -20.038087
+      1      -0.037967
+      2       0.283390
+        Total Dipole moment:
+                  0    
+      0       5.621547
+      1       0.010345
+      2      -0.078736
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 66
+   prop. index: 1
+        SCF Energy:      -33.8666287757
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 66
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.8604     4.0000    -1.8604     2.0538    10.0842    -8.0304
+  1   0     7.8502     7.0000    -0.8502     0.2765     1.2581    -0.9816
+  2   0     1.5743     1.0000    -0.5743     0.6702     3.1214    -2.4512
+  3   0     1.5743     1.0000    -0.5743     0.6701     3.1213    -2.4512
+  4   0     1.5743     1.0000    -0.5743     0.6702     3.1214    -2.4512
+  5   0     7.8084     7.0000    -0.8084     0.3467     0.6112    -0.2645
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                1.026287
+                0             6               2            1                2.836379
+                0             6               3            1                2.836344
+                0             6               4            1                2.836358
+                0             6               5            9                0.548783
+                2             1               3            1                0.101838
+                2             1               4            1                0.101824
+                3             1               4            1                0.101862
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 67
+   prop. index: 1
+        SCF Energy:      -33.8694146383
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 68
+   prop. index: 1
+        SCF Energy:      -33.8699475966
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 69
+   prop. index: 1
+        SCF Energy:      -33.8711094830
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 70
+   prop. index: 1
+        SCF Energy:      -33.8713946786
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 71
+   prop. index: 1
+        SCF Energy:      -33.8714152944
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 72
+   prop. index: 1
+        SCF Energy:      -33.8714164198
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 73
+   prop. index: 1
+        SCF Energy:      -33.8714165422
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 73
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.7865     4.0000    -1.7865     1.9514     9.8745    -7.9231
+  1   0     7.9210     7.0000    -0.9210     0.1515     0.6922    -0.5407
+  2   0     1.5827     1.0000    -0.5827     0.6605     3.1732    -2.5127
+  3   0     1.5827     1.0000    -0.5827     0.6605     3.1732    -2.5127
+  4   0     1.5827     1.0000    -0.5827     0.6605     3.1732    -2.5127
+  5   0     7.7243     7.0000    -0.7243     0.4756     0.7776    -0.3020
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                0.495384
+                0             6               2            1                2.879906
+                0             6               3            1                2.879887
+                0             6               4            1                2.879894
+                0             6               5            9                0.739508
+                2             1               3            1                0.114404
+                2             1               4            1                0.114393
+                3             1               4            1                0.114425
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 73
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       12.1128156354
+        Electronic Contribution:
+                  0    
+      0      25.544411
+      1       0.048470
+      2      -0.361512
+        Nuclear Contribution:
+                  0    
+      0     -20.779444
+      1      -0.039469
+      2       0.294146
+        Total Dipole moment:
+                  0    
+      0       4.764967
+      1       0.009002
+      2      -0.067366
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 74
+   prop. index: 1
+        SCF Energy:      -33.8833140341
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 74
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.8176     4.0000    -1.8176     2.0453     9.7684    -7.7231
+  1   0     7.9552     7.0000    -0.9552     0.0874     0.5780    -0.4906
+  2   0     1.5621     1.0000    -0.5621     0.6840     3.0881    -2.4041
+  3   0     1.5621     1.0000    -0.5621     0.6840     3.0881    -2.4041
+  4   0     1.5621     1.0000    -0.5621     0.6840     3.0881    -2.4041
+  5   0     7.6684     7.0000    -0.6684     0.5536     0.9894    -0.4358
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                0.370384
+                0             6               2            1                2.812948
+                0             6               3            1                2.812934
+                0             6               4            1                2.812939
+                0             6               5            9                0.959116
+                2             1               3            1                0.102780
+                2             1               4            1                0.102769
+                3             1               4            1                0.102801
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 75
+   prop. index: 1
+        SCF Energy:      -33.8861957263
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 76
+   prop. index: 1
+        SCF Energy:      -33.8866436845
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 77
+   prop. index: 1
+        SCF Energy:      -33.8870022194
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 78
+   prop. index: 1
+        SCF Energy:      -33.8870396436
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 79
+   prop. index: 1
+        SCF Energy:      -33.8870447068
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 80
+   prop. index: 1
+        SCF Energy:      -33.8870457918
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 81
+   prop. index: 1
+        SCF Energy:      -33.8870457956
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 81
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.8554     4.0000    -1.8554     1.9696     9.8631    -7.8935
+  1   0     7.9781     7.0000    -0.9781     0.0432     0.3358    -0.2926
+  2   0     1.5777     1.0000    -0.5777     0.6663     3.1989    -2.5326
+  3   0     1.5777     1.0000    -0.5777     0.6663     3.1989    -2.5326
+  4   0     1.5777     1.0000    -0.5777     0.6663     3.1989    -2.5326
+  5   0     7.6256     7.0000    -0.6256     0.6089     1.0632    -0.4543
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                0.175639
+                0             6               2            1                2.881223
+                0             6               3            1                2.881208
+                0             6               4            1                2.881214
+                0             6               5            9                1.043807
+                2             1               3            1                0.131816
+                2             1               4            1                0.131804
+                3             1               4            1                0.131838
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 81
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       11.8407268029
+        Electronic Contribution:
+                  0    
+      0      26.350319
+      1       0.049815
+      2      -0.372627
+        Nuclear Contribution:
+                  0    
+      0     -21.692385
+      1      -0.041105
+      2       0.306919
+        Total Dipole moment:
+                  0    
+      0       4.657934
+      1       0.008710
+      2      -0.065708
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 82
+   prop. index: 1
+        SCF Energy:      -33.9076514934
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 82
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 8
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.9560     4.0000    -1.9560     2.0154    10.0456    -8.0302
+  1   0     7.9883     7.0000    -0.9883     0.0233     0.3008    -0.2775
+  2   0     1.5781     1.0000    -0.5781     0.6658     3.2123    -2.5465
+  3   0     1.5781     1.0000    -0.5781     0.6658     3.2123    -2.5465
+  4   0     1.5781     1.0000    -0.5781     0.6658     3.2123    -2.5465
+  5   0     7.6031     7.0000    -0.6031     0.6370     1.2668    -0.6298
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1           17                0.146832
+                0             6               2            1                2.885824
+                0             6               3            1                2.885808
+                0             6               4            1                2.885814
+                0             6               5            9                1.241342
+                2             1               3            1                0.135128
+                2             1               4            1                0.135116
+                3             1               4            1                0.135150
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 83
+   prop. index: 1
+        SCF Energy:      -33.9085382878
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 84
+   prop. index: 1
+        SCF Energy:      -33.9090368003
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 85
+   prop. index: 1
+        SCF Energy:      -33.9091287121
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 86
+   prop. index: 1
+        SCF Energy:      -33.9091382721
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 87
+   prop. index: 1
+        SCF Energy:      -33.9091404544
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 88
+   prop. index: 1
+        SCF Energy:      -33.9091404604
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 88
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     5.9765     4.0000    -1.9765     2.0145     9.9995    -7.9850
+  1   0     7.9938     7.0000    -0.9938     0.0123     0.2111    -0.1988
+  2   0     1.5724     1.0000    -0.5724     0.6724     3.2213    -2.5489
+  3   0     1.5724     1.0000    -0.5724     0.6724     3.2213    -2.5489
+  4   0     1.5724     1.0000    -0.5724     0.6724     3.2213    -2.5489
+  5   0     7.5789     7.0000    -0.5789     0.6658     1.2927    -0.6269
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.880501
+                0             6               3            1                2.880492
+                0             6               4            1                2.880495
+                0             6               5            9                1.277285
+                2             1               3            1                0.147210
+                2             1               4            1                0.147198
+                3             1               4            1                0.147231
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 88
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       12.7086085412
+        Electronic Contribution:
+                  0    
+      0      27.187779
+      1       0.051085
+      2      -0.383968
+        Nuclear Contribution:
+                  0    
+      0     -22.188432
+      1      -0.041877
+      2       0.313669
+        Total Dipole moment:
+                  0    
+      0       4.999347
+      1       0.009207
+      2      -0.070300
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 89
+   prop. index: 1
+        SCF Energy:      -33.9344476343
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 89
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.0918     4.0000    -2.0918     2.0431    10.2179    -8.1748
+  1   0     7.9977     7.0000    -0.9977     0.0046     0.1961    -0.1915
+  2   0     1.5725     1.0000    -0.5725     0.6722     3.2357    -2.5635
+  3   0     1.5725     1.0000    -0.5725     0.6722     3.2357    -2.5635
+  4   0     1.5725     1.0000    -0.5725     0.6722     3.2357    -2.5635
+  5   0     7.5721     7.0000    -0.5721     0.6746     1.5203    -0.8457
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.884646
+                0             6               3            1                2.884636
+                0             6               4            1                2.884640
+                0             6               5            9                1.494310
+                2             1               3            1                0.150717
+                2             1               4            1                0.150706
+                3             1               4            1                0.150738
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 90
+   prop. index: 1
+        SCF Energy:      -33.9348948172
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 91
+   prop. index: 1
+        SCF Energy:      -33.9350846210
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 92
+   prop. index: 1
+        SCF Energy:      -33.9351573405
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 93
+   prop. index: 1
+        SCF Energy:      -33.9351638504
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 94
+   prop. index: 1
+        SCF Energy:      -33.9351645049
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 94
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.1073     4.0000    -2.1073     2.0429    10.1934    -8.1505
+  1   0     7.9986     7.0000    -0.9986     0.0028     0.1590    -0.1562
+  2   0     1.5677     1.0000    -0.5677     0.6777     3.2436    -2.5659
+  3   0     1.5678     1.0000    -0.5678     0.6776     3.2435    -2.5659
+  4   0     1.5678     1.0000    -0.5678     0.6776     3.2435    -2.5659
+  5   0     7.5599     7.0000    -0.5599     0.6885     1.5274    -0.8389
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.879497
+                0             6               3            1                2.879498
+                0             6               4            1                2.879499
+                0             6               5            9                1.508499
+                2             1               3            1                0.160542
+                2             1               4            1                0.160532
+                3             1               4            1                0.160562
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 94
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       14.0013027336
+        Electronic Contribution:
+                  0    
+      0      27.925454
+      1       0.051991
+      2      -0.393650
+        Nuclear Contribution:
+                  0    
+      0     -22.417579
+      1      -0.042057
+      2       0.316517
+        Total Dipole moment:
+                  0    
+      0       5.507876
+      1       0.009934
+      2      -0.077133
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 95
+   prop. index: 1
+        SCF Energy:      -33.9583494070
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 95
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2242     4.0000    -2.2242     2.0493    10.4462    -8.3969
+  1   0     8.0001     7.0000    -1.0001    -0.0002     0.1522    -0.1524
+  2   0     1.5688     1.0000    -0.5688     0.6765     3.2577    -2.5812
+  3   0     1.5688     1.0000    -0.5688     0.6764     3.2576    -2.5812
+  4   0     1.5688     1.0000    -0.5688     0.6764     3.2576    -2.5812
+  5   0     7.5678     7.0000    -0.5678     0.6814     1.7936    -1.1122
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.881978
+                0             6               3            1                2.881977
+                0             6               4            1                2.881978
+                0             6               5            9                1.758323
+                2             1               3            1                0.163757
+                2             1               4            1                0.163747
+                3             1               4            1                0.163777
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 96
+   prop. index: 1
+        SCF Energy:      -33.9585807624
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 97
+   prop. index: 1
+        SCF Energy:      -33.9586653232
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 98
+   prop. index: 1
+        SCF Energy:      -33.9587176641
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 99
+   prop. index: 1
+        SCF Energy:      -33.9587197410
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 100
+   prop. index: 1
+        SCF Energy:      -33.9587198385
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 100
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.2348     4.0000    -2.2348     2.0472    10.4317    -8.3845
+  1   0     8.0001     7.0000    -1.0001    -0.0003     0.1320    -0.1323
+  2   0     1.5653     1.0000    -0.5653     0.6804     3.2651    -2.5847
+  3   0     1.5653     1.0000    -0.5653     0.6804     3.2651    -2.5847
+  4   0     1.5653     1.0000    -0.5653     0.6804     3.2651    -2.5847
+  5   0     7.5612     7.0000    -0.5612     0.6890     1.7939    -1.1049
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.878545
+                0             6               3            1                2.878561
+                0             6               4            1                2.878557
+                0             6               5            9                1.764782
+                2             1               3            1                0.171817
+                2             1               4            1                0.171808
+                3             1               4            1                0.171834
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 100
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       15.5807479594
+        Electronic Contribution:
+                  0    
+      0      28.633677
+      1       0.052550
+      2      -0.402517
+        Nuclear Contribution:
+                  0    
+      0     -22.504467
+      1      -0.041823
+      2       0.317156
+        Total Dipole moment:
+                  0    
+      0       6.129210
+      1       0.010727
+      2      -0.085360
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 101
+   prop. index: 1
+        SCF Energy:      -33.9648540002
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 101
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.3411     4.0000    -2.3411     2.0376    10.7260    -8.6884
+  1   0     8.0007     7.0000    -1.0007    -0.0014     0.1288    -0.1302
+  2   0     1.5695     1.0000    -0.5695     0.6757     3.2769    -2.6012
+  3   0     1.5695     1.0000    -0.5695     0.6756     3.2769    -2.6013
+  4   0     1.5695     1.0000    -0.5695     0.6756     3.2769    -2.6013
+  5   0     7.5810     7.0000    -0.5810     0.6693     2.1147    -1.4454
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.878092
+                0             6               3            1                2.878105
+                0             6               4            1                2.878102
+                0             6               5            9                2.062348
+                2             1               3            1                0.174175
+                2             1               4            1                0.174166
+                3             1               4            1                0.174193
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 102
+   prop. index: 1
+        SCF Energy:      -33.9650480485
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 103
+   prop. index: 1
+        SCF Energy:      -33.9651345297
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 104
+   prop. index: 1
+        SCF Energy:      -33.9651711110
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 105
+   prop. index: 1
+        SCF Energy:      -33.9651728108
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 106
+   prop. index: 1
+        SCF Energy:      -33.9651728653
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 106
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.3494     4.0000    -2.3494     2.0349    10.7096    -8.6747
+  1   0     8.0006     7.0000    -1.0006    -0.0012     0.1163    -0.1175
+  2   0     1.5657     1.0000    -0.5657     0.6800     3.2832    -2.6032
+  3   0     1.5657     1.0000    -0.5657     0.6799     3.2831    -2.6032
+  4   0     1.5657     1.0000    -0.5657     0.6800     3.2832    -2.6032
+  5   0     7.5765     7.0000    -0.5765     0.6748     2.1113    -1.4365
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.873419
+                0             6               3            1                2.873453
+                0             6               4            1                2.873445
+                0             6               5            9                2.066057
+                2             1               3            1                0.181877
+                2             1               4            1                0.181869
+                3             1               4            1                0.181891
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 106
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       17.3220358313
+        Electronic Contribution:
+                  0    
+      0      29.321475
+      1       0.052663
+      2      -0.410527
+        Nuclear Contribution:
+                  0    
+      0     -22.507260
+      1      -0.041232
+      2       0.316331
+        Total Dipole moment:
+                  0    
+      0       6.814214
+      1       0.011431
+      2      -0.094196
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 107
+   prop. index: 1
+        SCF Energy:      -33.9297235034
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 107
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.4306     4.0000    -2.4306     2.0241    11.0586    -9.0345
+  1   0     8.0008     7.0000    -1.0008    -0.0016     0.1147    -0.1163
+  2   0     1.5768     1.0000    -0.5768     0.6673     3.2896    -2.6223
+  3   0     1.5769     1.0000    -0.5769     0.6672     3.2896    -2.6224
+  4   0     1.5768     1.0000    -0.5768     0.6673     3.2896    -2.6223
+  5   0     7.6034     7.0000    -0.6034     0.6477     2.5071    -1.8594
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.868278
+                0             6               3            1                2.868306
+                0             6               4            1                2.868299
+                0             6               5            9                2.431447
+                2             1               3            1                0.182688
+                2             1               4            1                0.182680
+                3             1               4            1                0.182703
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 108
+   prop. index: 1
+        SCF Energy:      -33.9301922691
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 109
+   prop. index: 1
+        SCF Energy:      -33.9304191920
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 110
+   prop. index: 1
+        SCF Energy:      -33.9304515244
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 111
+   prop. index: 1
+        SCF Energy:      -33.9304527252
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 112
+   prop. index: 1
+        SCF Energy:      -33.9304527487
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 112
+   prop. index: 1
+     Number of atoms                     : 6
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 7
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.4384     4.0000    -2.4384     2.0232    11.0133    -8.9901
+  1   0     8.0007     7.0000    -1.0007    -0.0014     0.1085    -0.1099
+  2   0     1.5688     1.0000    -0.5688     0.6764     3.2885    -2.6121
+  3   0     1.5689     1.0000    -0.5689     0.6763     3.2885    -2.6122
+  4   0     1.5689     1.0000    -0.5689     0.6763     3.2885    -2.6122
+  5   0     7.5989     7.0000    -0.5989     0.6535     2.4969    -1.8434
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               2            1                2.853604
+                0             6               3            1                2.853660
+                0             6               4            1                2.853646
+                0             6               5            9                2.434461
+                2             1               3            1                0.191963
+                2             1               4            1                0.191956
+                3             1               4            1                0.191974
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 112
+   prop. index: 1
+       Filename                          : FCl_SN1_TS.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :       19.0385614529
+        Electronic Contribution:
+                  0    
+      0      29.930660
+      1       0.052106
+      2      -0.416711
+        Nuclear Contribution:
+                  0    
+      0     -22.441177
+      1      -0.040249
+      2       0.314174
+        Total Dipole moment:
+                  0    
+      0       7.489483
+      1       0.011857
+      2      -0.102537
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     1 
+    Coordinates:
+               0 C     -1.552477887171   -0.437225425960   -0.000032708187
+               1 Cl    -0.482477887171   -0.437225472860   -0.000033604236
+               2 H     -1.910796698684   -1.208924137007    0.648802806212
+               3 H     -1.910777883364   -0.613256572732   -0.992703745780
+               4 H     -1.910790381995    0.510477963055    0.343933513961
+               5 F     -4.551279261616   -0.448976354496    0.083943738031
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     2 
+    Coordinates:
+               0 C     -1.574204666526   -0.437239428843    0.000060329506
+               1 Cl    -0.347188551062   -0.437179071824   -0.000346047351
+               2 H     -1.941172562044   -1.216161344408    0.654742232031
+               3 H     -1.941693396049   -0.614824042927   -1.001812216031
+               4 H     -1.941342212241    0.519296812276    0.346966061390
+               5 F     -4.572998612078   -0.449022924274    0.084299640456
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     3 
+    Coordinates:
+               0 C     -1.592011387757   -0.437247232425    0.000099932152
+               1 Cl    -0.225925345270   -0.437136434480   -0.000622861068
+               2 H     -1.969687295604   -1.219401013311    0.657294259217
+               3 H     -1.970293802281   -0.615457370263   -1.005730227439
+               4 H     -1.969887027890    0.523187351818    0.348174072413
+               5 F     -4.590795141198   -0.449075301339    0.084694824725
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     4 
+    Coordinates:
+               0 C     -1.601178606935   -0.437252441485    0.000115733002
+               1 Cl    -0.122212389878   -0.437113014929   -0.000766472639
+               2 H     -1.998281343623   -1.223223364525    0.660375421291
+               3 H     -1.998587395928   -0.616259534134   -1.010539222383
+               4 H     -1.998386885387    0.527838021711    0.349701145885
+               5 F     -4.599953378248   -0.449119666638    0.085023394844
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     5 
+    Coordinates:
+               0 C     -1.608217419467   -0.437238054613   -0.000002132632
+               1 Cl    -0.026245652772   -0.437121800442   -0.000718599131
+               2 H     -2.025949263159   -1.220520866293    0.658017736484
+               3 H     -2.025428438477   -0.615659088172   -1.007382481979
+               4 H     -2.025786610584    0.524612113556    0.348417688361
+               5 F     -4.606972615542   -0.449202304036    0.085577788898
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     6 
+    Coordinates:
+               0 C     -1.617865120593   -0.437193108749   -0.000310378047
+               1 Cl     0.053085392923   -0.437160222546   -0.000574469650
+               2 H     -2.046480286117   -1.215073551633    0.653503192462
+               3 H     -2.044818646842   -0.614564165507   -1.001215148247
+               4 H     -2.045933279128    0.518197383275    0.346139395345
+               5 F     -4.616588060242   -0.449336334839    0.086367408137
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     7 
+    Coordinates:
+               0 C     -1.631291540818   -0.437129349923   -0.000706564225
+               1 Cl     0.107518374135   -0.437222038208   -0.000395326495
+               2 H     -2.056215317108   -1.213235343821    0.652057161219
+               3 H     -2.053381669708   -0.614324240472   -0.999872503976
+               4 H     -2.055255162775    0.516293537737    0.345523447069
+               5 F     -4.629974683725   -0.449512565313    0.087303786409
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     8 
+    Coordinates:
+               0 C     -1.645943116854   -0.437060510810   -0.001100094814
+               1 Cl     0.136134314967   -0.437320570043   -0.000003470102
+               2 H     -2.056550353860   -1.215414588360    0.653745515652
+               3 H     -2.052506414623   -0.614895842191   -1.003599725857
+               4 H     -2.055155525029    0.519291972415    0.346396019339
+               5 F     -4.644578904602   -0.449730461011    0.088471755783
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     9 
+    Coordinates:
+               0 C     -1.660594591882   -0.436980274640   -0.001541899529
+               1 Cl     0.147800587376   -0.437479441018    0.000786224463
+               2 H     -2.051368962361   -1.219317811985    0.656537023985
+               3 H     -2.045829540744   -0.615739898729   -1.009564043652
+               4 H     -2.049440402747    0.524403363353    0.347622733546
+               5 F     -4.659167089642   -0.450015936981    0.090069961186
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     10 
+    Coordinates:
+               0 C     -1.673739226365   -0.436880460137   -0.002089982335
+               1 Cl     0.147430996007   -0.437717866738    0.002087067850
+               2 H     -2.043400807806   -1.223701467441    0.659365287240
+               3 H     -2.035889485977   -0.616582120142   -1.016287475414
+               4 H     -2.040774909849    0.530139642460    0.348633456435
+               5 F     -4.672226566009   -0.450387728002    0.092201646225
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     11 
+    Coordinates:
+               0 C     -1.679289536382   -0.436795816081   -0.002559670852
+               1 Cl     0.140620533388   -0.437956868702    0.003448656463
+               2 H     -2.038278811621   -1.226205615378    0.660589398386
+               3 H     -2.028940868389   -0.616961183155   -1.020418677434
+               4 H     -2.035011353272    0.533504608897    0.348761447522
+               5 F     -4.677699963723   -0.450715125581    0.094088845915
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     12 
+    Coordinates:
+               0 C     -1.679357156471   -0.436735917611   -0.002895731795
+               1 Cl     0.136413909297   -0.438147266416    0.004539041562
+               2 H     -2.037483830982   -1.226634726118    0.660289462433
+               3 H     -2.026738233073   -0.616913515555   -1.021659395075
+               4 H     -2.033722821653    0.534251972566    0.348210237983
+               5 F     -4.677711867119   -0.450950546866    0.095426384894
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     13 
+    Coordinates:
+               0 C     -1.678846372305   -0.436680220031   -0.003207072949
+               1 Cl     0.135504831658   -0.438316411656    0.005486673676
+               2 H     -2.038112257760   -1.226455711239    0.659607488972
+               3 H     -2.026092228685   -0.616770264005   -1.022093483167
+               4 H     -2.033902359117    0.534249657030    0.347542010276
+               5 F     -4.677151613791   -0.451157050099    0.096574383193
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     14 
+    Coordinates:
+               0 C     -1.678608239892   -0.436596877877   -0.003669050574
+               1 Cl     0.135217351757   -0.438558061542    0.006819998971
+               2 H     -2.039034680269   -1.226246631423    0.658705184629
+               3 H     -2.025163715630   -0.616594627878   -1.022818275820
+               4 H     -2.034170058542    0.534322689519    0.346652267119
+               5 F     -4.676840657425   -0.451456490798    0.098219875675
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     15 
+    Coordinates:
+               0 C     -1.733077856244   -0.436803479852   -0.002231153383
+               1 Cl     0.080748862332   -0.438724676294    0.008070498155
+               2 H     -2.026973864077   -1.245611519997    0.674364428938
+               3 H     -2.014077008336   -0.620729321352   -1.047192539443
+               4 H     -2.022443642702    0.557911763522    0.354512033644
+               5 F     -4.602776490972   -0.451172766027    0.096386732088
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     16 
+    Coordinates:
+               0 C     -1.725206672110   -0.436722819119   -0.002783420113
+               1 Cl     0.107830168294   -0.438716512651    0.008046725146
+               2 H     -2.041905565957   -1.236075145178    0.665957790805
+               3 H     -2.027548140125   -0.618104012518   -1.033303677275
+               4 H     -2.036884875402    0.545663176709    0.349580670322
+               5 F     -4.594884914700   -0.451174687243    0.096411911115
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     17 
+    Coordinates:
+               0 C     -1.715366836059   -0.436650255797   -0.003246025539
+               1 Cl     0.124440174229   -0.438826830862    0.008590107155
+               2 H     -2.054535857836   -1.230065749443    0.661121557107
+               3 H     -2.039017251654   -0.616951181179   -1.026557757687
+               4 H     -2.049103993454    0.538628657656    0.347245215956
+               5 F     -4.585016235226   -0.451264640375    0.096756903007
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     18 
+    Coordinates:
+               0 C     -1.709404932967   -0.436604075055   -0.003506468003
+               1 Cl     0.124982652141   -0.438912426195    0.008941757758
+               2 H     -2.059079834775   -1.227939019519    0.659575683603
+               3 H     -2.042725240445   -0.616707658120   -1.024861211613
+               4 H     -2.053339249580    0.536390240446    0.346685083439
+               5 F     -4.579033394375   -0.451357061557    0.097075154817
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     19 
+    Coordinates:
+               0 C     -1.701956652024   -0.436533266190   -0.003877587384
+               1 Cl     0.119802334041   -0.439060713918    0.009552484162
+               2 H     -2.063002429313   -1.225927296245    0.658040972598
+               3 H     -2.045180959288   -0.616509435187   -1.023702812520
+               4 H     -2.056716866956    0.534443688250    0.346104831911
+               5 F     -4.571545426461   -0.451542976710    0.097792111233
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     20 
+    Coordinates:
+               0 C     -1.701340739433   -0.436507736142   -0.003992998854
+               1 Cl     0.117288999569   -0.439136702126    0.009923789432
+               2 H     -2.062861694384   -1.226043581540    0.657915455812
+               3 H     -2.044430876778   -0.616489806886   -1.024143942187
+               4 H     -2.056348881353    0.534695524455    0.345908693013
+               5 F     -4.570906807621   -0.451647697761    0.098299002784
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     21 
+    Coordinates:
+               0 C     -1.701507963379   -0.436483403928   -0.004104582918
+               1 Cl     0.116714333753   -0.439213255053    0.010313506123
+               2 H     -2.062809532974   -1.226147134262    0.657736814796
+               3 H     -2.043847853513   -0.616440953825   -1.024499864857
+               4 H     -2.056098106101    0.534904901110    0.345648275774
+               5 F     -4.571050877786   -0.451750154042    0.098815851080
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     22 
+    Coordinates:
+               0 C     -1.755627038544   -0.436700218635   -0.002611961521
+               1 Cl     0.062597506360   -0.439375233809    0.011533049985
+               2 H     -2.051073505769   -1.246014669540    0.673808230825
+               3 H     -2.033137739420   -0.620668320871   -1.049384883722
+               4 H     -2.044718784635    0.559067601311    0.353710180977
+               5 F     -4.496640437993   -0.451439158456    0.096855383456
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     23 
+    Coordinates:
+               0 C     -1.748546781883   -0.436671855083   -0.002861199134
+               1 Cl     0.089433796760   -0.439230467616    0.010739039836
+               2 H     -2.064875098249   -1.236305681026    0.665608234101
+               3 H     -2.046607481781   -0.617999560614   -1.034457708222
+               4 H     -2.058415865202    0.546333404389    0.349039677519
+               5 F     -4.489588569645   -0.451255840050    0.095841955900
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     24 
+    Coordinates:
+               0 C     -1.739927160800   -0.436691518342   -0.002767077804
+               1 Cl     0.105469232606   -0.439112337720    0.009913583896
+               2 H     -2.075576093148   -1.231034060999    0.662132160618
+               3 H     -2.058150834290   -0.617111905576   -1.027552096435
+               4 H     -2.069388757010    0.539859155725    0.347820766990
+               5 F     -4.481026387358   -0.451039333088    0.094362662734
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     25 
+    Coordinates:
+               0 C     -1.734581167207   -0.436729249013   -0.002511102048
+               1 Cl     0.106239115105   -0.438982974105    0.008958623113
+               2 H     -2.078902960587   -1.229266414030    0.661625759296
+               3 H     -2.062557456887   -0.617058494939   -1.025286972506
+               4 H     -2.073055847017    0.537747575467    0.348214489026
+               5 F     -4.475741683406   -0.450840443379    0.092909203120
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     26 
+    Coordinates:
+               0 C     -1.727338164030   -0.436810538886   -0.001936612554
+               1 Cl     0.101665420756   -0.438726466346    0.007090796590
+               2 H     -2.081203372797   -1.227538517006    0.661772840399
+               3 H     -2.067061484268   -0.617143951344   -1.022537188399
+               4 H     -2.076049157461    0.535558534353    0.349318271472
+               5 F     -4.468613242199   -0.450469060772    0.090201892492
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     27 
+    Coordinates:
+               0 C     -1.726613351973   -0.436851410359   -0.001634044153
+               1 Cl     0.099219311024   -0.438629724930    0.006401018666
+               2 H     -2.080401447722   -1.227734909239    0.662319424091
+               3 H     -2.067297149192   -0.617221175418   -1.022187068259
+               4 H     -2.075574732710    0.535637667496    0.349801995529
+               5 F     -4.467932629427   -0.450330447550    0.089208674127
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     28 
+    Coordinates:
+               0 C     -1.726738290065   -0.436885986916   -0.001375352294
+               1 Cl     0.098594859255   -0.438554985319    0.005865324210
+               2 H     -2.079695446554   -1.227956618323    0.662756861013
+               3 H     -2.067509276196   -0.617261440734   -1.021898532235
+               4 H     -2.075159050958    0.535749210115    0.350141465549
+               5 F     -4.468092795482   -0.450220178823    0.088420233757
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     29 
+    Coordinates:
+               0 C     -1.780548781908   -0.437084783994   -0.000000783170
+               1 Cl     0.044785528609   -0.438703838906    0.006958674560
+               2 H     -2.068287504131   -1.248187418738    0.679276491570
+               3 H     -2.057089864063   -0.621630952186   -1.047370785903
+               4 H     -2.064088192050    0.560401282715    0.358535529122
+               5 F     -4.393371186457   -0.449924288892    0.086510873820
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     30 
+    Coordinates:
+               0 C     -1.774552524130   -0.437118607024    0.000187975053
+               1 Cl     0.072020514367   -0.438446358595    0.005339746850
+               2 H     -2.080877943635   -1.238159658362    0.671332859002
+               3 H     -2.070716815250   -0.619012574260   -1.031632987725
+               4 H     -2.077020238293    0.547187048459    0.354319010744
+               5 F     -4.387452993059   -0.449579850218    0.084363396076
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     31 
+    Coordinates:
+               0 C     -1.767631106193   -0.437208251302    0.000809693058
+               1 Cl     0.087354584006   -0.438173804940    0.003377051765
+               2 H     -2.089434804342   -1.233872016356    0.669234530354
+               3 H     -2.081845312823   -0.618358935670   -1.024912306864
+               4 H     -2.086393587516    0.541630485848    0.354089616028
+               5 F     -4.380649773132   -0.449147477579    0.081311415659
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     32 
+    Coordinates:
+               0 C     -1.763320686838   -0.437294255864    0.001446891017
+               1 Cl     0.088324923313   -0.437936802384    0.001607848538
+               2 H     -2.091521798894   -1.232622649004    0.669569801885
+               3 H     -2.086391513557   -0.618410736558   -1.022417382459
+               4 H     -2.089248366769    0.539914442958    0.355108271807
+               5 F     -4.376442557255   -0.448779999148    0.078594569212
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     33 
+    Coordinates:
+               0 C     -1.756508565471   -0.437470371052    0.002765616199
+               1 Cl     0.084656320538   -0.437454383068   -0.001967010701
+               2 H     -2.092530141228   -1.231198158140    0.670995320212
+               3 H     -2.092533084236   -0.618640330307   -1.018399760100
+               4 H     -2.091858183230    0.537670464623    0.357407355420
+               5 F     -4.369826346372   -0.448037222055    0.073108478970
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     34 
+    Coordinates:
+               0 C     -1.755647551562   -0.437540747071    0.003291936730
+               1 Cl     0.082342205951   -0.437287208348   -0.003177203303
+               2 H     -2.091434063798   -1.231360417945    0.671870601179
+               3 H     -2.093438074092   -0.618756909978   -1.017534632852
+               4 H     -2.091391379952    0.537589237274    0.358259399635
+               5 F     -4.369031136547   -0.447773953932    0.071199898611
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     35 
+    Coordinates:
+               0 C     -1.755700256700   -0.437600840653    0.003731503601
+               1 Cl     0.081557776451   -0.437154630014   -0.004115524666
+               2 H     -2.090389612913   -1.231613683730    0.672602409755
+               3 H     -2.094057558931   -0.618839853484   -1.016914316814
+               4 H     -2.090875894809    0.537641551693    0.358901043288
+               5 F     -4.369134453099   -0.447562543812    0.069704884836
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     36 
+    Coordinates:
+               0 C     -1.809288198630   -0.437762184613    0.004841134427
+               1 Cl     0.027969025530   -0.437284670648   -0.003193526382
+               2 H     -2.079267977723   -1.252070191834    0.689524502946
+               3 H     -2.083795366211   -0.623373816645   -1.043000924486
+               4 H     -2.080037760304    0.562677910403    0.367663967406
+               5 F     -4.294179722661   -0.447317046663    0.068074846089
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     37 
+    Coordinates:
+               0 C     -1.804796645616   -0.437806028061    0.005146411064
+               1 Cl     0.056538866664   -0.437061589233   -0.004700067457
+               2 H     -2.091257724970   -1.241536735821    0.681246595345
+               3 H     -2.096938206454   -0.620801623080   -1.027342554256
+               4 H     -2.092400909840    0.549098852000    0.363420513997
+               5 F     -4.289745379784   -0.447022875805    0.066139101306
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     38 
+    Coordinates:
+               0 C     -1.799973151863   -0.437877339365    0.005666513579
+               1 Cl     0.071230756340   -0.436855099192   -0.006218660145
+               2 H     -2.098453133993   -1.238218317364    0.679529960574
+               3 H     -2.106174880506   -0.620243221409   -1.021989857234
+               4 H     -2.100237615249    0.544760094939    0.363126474061
+               5 F     -4.284991974729   -0.446696117608    0.063795569166
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     39 
+    Coordinates:
+               0 C     -1.797123217103   -0.437934763684    0.006093463519
+               1 Cl     0.072182530695   -0.436704450300   -0.007322888962
+               2 H     -2.099918497416   -1.237513262394    0.679779195012
+               3 H     -2.109319854344   -0.620267430742   -1.020383343339
+               4 H     -2.102226450007    0.543737501071    0.363762196765
+               5 F     -4.282194511824   -0.446447593952    0.061981377004
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     40 
+    Coordinates:
+               0 C     -1.791258901050   -0.438074724936    0.007116326502
+               1 Cl     0.069776156095   -0.436338319348   -0.009940840552
+               2 H     -2.101179746032   -1.236332205890    0.680724438688
+               3 H     -2.114706900140   -0.620388267979   -1.017004659672
+               4 H     -2.104782566431    0.541842183470    0.365401034788
+               5 F     -4.276448042443   -0.445838665316    0.057613700246
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     41 
+    Coordinates:
+               0 C     -1.790376559807   -0.438124166234    0.007452067940
+               1 Cl     0.067910095242   -0.436224843735   -0.010693327417
+               2 H     -2.100531358390   -1.236339806226    0.681226975130
+               3 H     -2.115426340122   -0.620456948923   -1.016311050987
+               4 H     -2.104576379724    0.541658216053    0.365937788251
+               5 F     -4.275599457198   -0.445642450936    0.056297547082
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     42 
+    Coordinates:
+               0 C     -1.790387040341   -0.438160341824    0.007677814715
+               1 Cl     0.067287064774   -0.436150303945   -0.011146893487
+               2 H     -2.099909318929   -1.236470574681    0.681600409519
+               3 H     -2.115704139414   -0.620507287724   -1.015984953938
+               4 H     -2.104256009133    0.541670369389    0.366269666704
+               5 F     -4.275630556958   -0.445511861214    0.055493956486
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     43 
+    Coordinates:
+               0 C     -1.843902600602   -0.438292266717    0.008583554823
+               1 Cl     0.013770584555   -0.436265463331   -0.010330147215
+               2 H     -2.088913207597   -1.257089177920    0.698774048329
+               3 H     -2.105457824862   -0.625157176467   -1.042522443912
+               4 H     -2.093502192085    0.566982803088    0.375263633802
+               5 F     -4.200594759409   -0.445308718654    0.054141354173
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     44 
+    Coordinates:
+               0 C     -1.841418109388   -0.438318029049    0.008730983232
+               1 Cl     0.045381397968   -0.436120212778   -0.011253749291
+               2 H     -2.100928304852   -1.246117422106    0.689885363462
+               3 H     -2.117846454359   -0.622590460093   -1.027338564682
+               4 H     -2.105657585865    0.553163899212    0.370654915312
+               5 F     -4.198130943504   -0.445147775185    0.053231051968
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     45 
+    Coordinates:
+               0 C     -1.838905143427   -0.438349061902    0.008916868147
+               1 Cl     0.060001724108   -0.436019217257   -0.011912785811
+               2 H     -2.107143904426   -1.243543486755    0.688144331823
+               3 H     -2.124794403401   -0.622089440654   -1.023559092792
+               4 H     -2.112119682031    0.549872848905    0.369982116538
+               5 F     -4.195638590824   -0.445001642337    0.052338562096
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     46 
+    Coordinates:
+               0 C     -1.837614148976   -0.438368766536    0.009039887704
+               1 Cl     0.060668307187   -0.435966892146   -0.012237051670
+               2 H     -2.107991099779   -1.243315740795    0.688208423707
+               3 H     -2.126163598642   -0.622102922679   -1.023045946387
+               4 H     -2.113138877400    0.549534780400    0.370176675912
+               5 F     -4.194360582391   -0.444910458244    0.051768010734
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     47 
+    Coordinates:
+               0 C     -1.833709453119   -0.438434544696    0.009447242143
+               1 Cl     0.059863262152   -0.435794776245   -0.013283678310
+               2 H     -2.109531351337   -1.242541635151    0.688371984733
+               3 H     -2.129462768034   -0.622120109555   -1.021255704862
+               4 H     -2.115262053684    0.548364522327    0.370764762461
+               5 F     -4.190497635978   -0.444603456680    0.049865393835
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     48 
+    Coordinates:
+               0 C     -1.832901622551   -0.438457507856    0.009583599982
+               1 Cl     0.058720018776   -0.435742968950   -0.013587284727
+               2 H     -2.109417927336   -1.242399301035    0.688472759641
+               3 H     -2.129946620986   -0.622126847505   -1.020776425123
+               4 H     -2.115351332968    0.548101064226    0.370944563741
+               5 F     -4.189702514935   -0.444504438880    0.049272786487
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     49 
+    Coordinates:
+               0 C     -1.832846580158   -0.438471547196    0.009660721520
+               1 Cl     0.058293483008   -0.435717232417   -0.013728484188
+               2 H     -2.109166409741   -1.242415560702    0.688573458554
+               3 H     -2.130014230422   -0.622138007143   -1.020626531987
+               4 H     -2.115212539791    0.548065509064    0.371042077600
+               5 F     -4.189653722895   -0.444453161606    0.048988758501
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     50 
+    Coordinates:
+               0 C     -1.886526487134   -0.438589314297    0.010484877112
+               1 Cl     0.004613004065   -0.435824907719   -0.012949386720
+               2 H     -2.098030453682   -1.263048107975    0.705790067536
+               3 H     -2.119577486552   -0.626821910114   -1.047279236344
+               4 H     -2.104299809542    0.573425774694    0.380092934111
+               5 F     -4.114778767154   -0.444271534589    0.047770744304
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     51 
+    Coordinates:
+               0 C     -1.887025200621   -0.438603714672    0.010558333729
+               1 Cl     0.042706192121   -0.435717396583   -0.013651239415
+               2 H     -2.110425515460   -1.251836543980    0.696571851506
+               3 H     -2.131885682908   -0.624239916340   -1.032288100161
+               4 H     -2.116685467349    0.559467127588    0.375277890707
+               5 F     -4.115284325783   -0.444199556012    0.047441263634
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     52 
+    Coordinates:
+               0 C     -1.887566768334   -0.438616531230    0.010629256558
+               1 Cl     0.058126780627   -0.435664557348   -0.013994401129
+               2 H     -2.115126748224   -1.249770994050    0.694995942572
+               3 H     -2.136753956496   -0.623804450517   -1.029452331102
+               4 H     -2.121447955995    0.556877917991    0.374539934273
+               5 F     -4.115831351578   -0.444151384846    0.047191598828
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     53 
+    Coordinates:
+               0 C     -1.888057792209   -0.438624204592    0.010675020775
+               1 Cl     0.059043163770   -0.435645478544   -0.014098388319
+               2 H     -2.115036383659   -1.249957617990    0.695224820329
+               3 H     -2.136814439012   -0.623870476333   -1.029637913828
+               4 H     -2.121408714238    0.557090475778    0.374710320154
+               5 F     -4.116325834652   -0.444122698318    0.047036140890
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     54 
+    Coordinates:
+               0 C     -1.889642557289   -0.438650943102    0.010830246146
+               1 Cl     0.060291922447   -0.435583805018   -0.014422502227
+               2 H     -2.114160257972   -1.250363660496    0.695790582947
+               3 H     -2.136455808141   -0.624031124024   -1.029955462197
+               4 H     -2.120711356916    0.557522715840    0.375159111244
+               5 F     -4.117921942129   -0.444023183200    0.046508024086
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     55 
+    Coordinates:
+               0 C     -1.890799794720   -0.438675721151    0.010965080041
+               1 Cl     0.060365331039   -0.435532955825   -0.014677928958
+               2 H     -2.113196726789   -1.250602749305    0.696165832303
+               3 H     -2.135963504645   -0.624132395929   -1.030061382904
+               4 H     -2.119916426722    0.557746781528    0.375468780490
+               5 F     -4.119088878163   -0.443932959319    0.046049619028
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     56 
+    Coordinates:
+               0 C     -1.891149017780   -0.438691138266    0.011038375611
+               1 Cl     0.060018160304   -0.435506345396   -0.014799790746
+               2 H     -2.112717784885   -1.250660046840    0.696292946306
+               3 H     -2.135764098427   -0.624161134073   -1.030001985446
+               4 H     -2.119543916860    0.557767371689    0.375581854363
+               5 F     -4.119443342352   -0.443878707115    0.045798599912
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     57 
+    Coordinates:
+               0 C     -1.945580863109   -0.438802660368    0.011837478870
+               1 Cl     0.005585931821   -0.435610595118   -0.014028724910
+               2 H     -2.100848977746   -1.270749469033    0.713055043634
+               3 H     -2.124553751115   -0.628734058609   -1.056005902471
+               4 H     -2.107883537919    0.582475764731    0.384402140002
+               5 F     -4.045318801931   -0.443708981604    0.044649964875
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     58 
+    Coordinates:
+               0 C     -1.951044503370   -0.438825776874    0.011962264737
+               1 Cl     0.057196234668   -0.435487420563   -0.014850995253
+               2 H     -2.114470611872   -1.259487102602    0.703789997917
+               3 H     -2.138015654466   -0.626164710094   -1.041076352048
+               4 H     -2.121478757639    0.568494137859    0.379577391969
+               5 F     -4.050786707322   -0.443659127726    0.044507692679
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     59 
+    Coordinates:
+               0 C     -1.956740332543   -0.438850645735    0.012095310958
+               1 Cl     0.073238850081   -0.435428340557   -0.015182979741
+               2 H     -2.115957329807   -1.257511239477    0.702217551478
+               3 H     -2.139629099792   -0.625738500508   -1.038402243270
+               4 H     -2.123025350654    0.566013417721    0.378800155316
+               5 F     -4.056486737284   -0.443614691443    0.044382205258
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     60 
+    Coordinates:
+               0 C     -1.964692631077   -0.438889480387    0.012294721157
+               1 Cl     0.082162856762   -0.435363184736   -0.015482501107
+               2 H     -2.113477582920   -1.257918722201    0.702644138684
+               3 H     -2.137467785676   -0.625867768347   -1.038801882567
+               4 H     -2.120679217194    0.566449421021    0.379088389009
+               5 F     -4.064445639896   -0.443540265351    0.044167134823
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     61 
+    Coordinates:
+               0 C     -1.983563431267   -0.438993595822    0.012806144349
+               1 Cl     0.092182408487   -0.435215672842   -0.016077426915
+               2 H     -2.103794931530   -1.260112678989    0.704661303342
+               3 H     -2.128705580501   -0.626454484965   -1.041333909683
+               4 H     -2.111384784706    0.568978730112    0.380292290486
+               5 F     -4.083333680482   -0.443332297494    0.043561598422
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     62 
+    Coordinates:
+               0 C     -1.993121786685   -0.439053284518    0.013083022935
+               1 Cl     0.091445385755   -0.435148096785   -0.016300117466
+               2 H     -2.096883283085   -1.261971105076    0.706293680117
+               3 H     -2.122403306014   -0.626923332102   -1.043585206995
+               4 H     -2.104735335624    0.571170920988    0.381218553030
+               5 F     -4.092901674347   -0.443205102505    0.043200068379
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     63 
+    Coordinates:
+               0 C     -1.993695864223   -0.439059548972    0.013102100938
+               1 Cl     0.088099576739   -0.435149370152   -0.016260329473
+               2 H     -2.095309654560   -1.262605126983    0.706822009649
+               3 H     -2.120983740576   -0.627073478785   -1.044395246206
+               4 H     -2.103233302526    0.571937917914    0.381500149206
+               5 F     -4.093477014855   -0.443180393021    0.043141315886
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     64 
+    Coordinates:
+               0 C     -1.992931343052   -0.439059040877    0.013088821881
+               1 Cl     0.086605900759   -0.435152746327   -0.016229489949
+               2 H     -2.095294211883   -1.262663210253    0.706869546277
+               3 H     -2.121021061516   -0.627088207433   -1.044463605597
+               4 H     -2.103246666933    0.572003216610    0.381525700703
+               5 F     -4.092712617375   -0.443170011720    0.043119026685
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     65 
+    Coordinates:
+               0 C     -1.992833027020   -0.439062041687    0.013095472665
+               1 Cl     0.086541619016   -0.435148464986   -0.016239593507
+               2 H     -2.095314449907   -1.262651277345    0.706868150411
+               3 H     -2.121088316897   -0.627089605508   -1.044430650106
+               4 H     -2.103290911923    0.571978715769    0.381531568317
+               5 F     -4.092614913269   -0.443157326244    0.043085052219
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     66 
+    Coordinates:
+               0 C     -2.049592832918   -0.439169724004    0.013899002435
+               1 Cl     0.029781832037   -0.435257238402   -0.015434868218
+               2 H     -2.081164707091   -1.280089856442    0.721356636140
+               3 H     -2.107493169983   -0.631049903755   -1.067093228898
+               4 H     -2.089314599111    0.593454966478    0.389121494889
+               5 F     -4.020816522933   -0.443018243876    0.042060963652
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     67 
+    Coordinates:
+               0 C     -2.063782884988   -0.439200161458    0.014108928551
+               1 Cl     0.115284959643   -0.435089973340   -0.016657580162
+               2 H     -2.100343305072   -1.268376397692    0.711755498854
+               3 H     -2.126349010308   -0.628406749321   -1.051682805923
+               4 H     -2.108402534459    0.578973715365    0.384162461708
+               5 F     -4.035007224816   -0.443030433555    0.042223496972
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     68 
+    Coordinates:
+               0 C     -2.077404551165   -0.439230668069    0.014313524012
+               1 Cl     0.129053613233   -0.435056248967   -0.016871941217
+               2 H     -2.095881073203   -1.264528051334    0.708475478227
+               3 H     -2.121811841074   -0.627528178005   -1.046784808620
+               4 H     -2.103926393788    0.574253411523    0.382403243665
+               5 F     -4.048629754004   -0.443040265148    0.042374503933
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     69 
+    Coordinates:
+               0 C     -2.127067546017   -0.439343190102    0.015062786390
+               1 Cl     0.166236970319   -0.434960608152   -0.017462817373
+               2 H     -2.075148169895   -1.259727689073    0.704218669610
+               3 H     -2.101093628784   -0.626423294102   -1.040883463306
+               4 H     -2.083232042003    0.568404324707    0.380040542101
+               5 F     -4.098295583621   -0.443079543277    0.042934282579
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     70 
+    Coordinates:
+               0 C     -2.155335832061   -0.439402251532    0.015476449448
+               1 Cl     0.185247691656   -0.434920701379   -0.017742031083
+               2 H     -2.062588593265   -1.260807916276    0.704980164396
+               3 H     -2.088638560779   -0.626658137832   -1.042468918959
+               4 H     -2.070720027887    0.569776411531    0.380370628035
+               5 F     -4.126564677664   -0.443117404513    0.043293708163
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     71 
+    Coordinates:
+               0 C     -2.155751875645   -0.439396055635    0.015464449860
+               1 Cl     0.185385821062   -0.434930865197   -0.017717567242
+               2 H     -2.062343077113   -1.262855372198    0.706687599802
+               3 H     -2.088430093630   -0.627120265378   -1.045132420549
+               4 H     -2.070481023656    0.572306732491    0.381266560563
+               5 F     -4.126979751018   -0.443134174082    0.043341377566
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     72 
+    Coordinates:
+               0 C     -2.155127798275   -0.439390754646    0.015445183296
+               1 Cl     0.183965943980   -0.434939172962   -0.017683520891
+               2 H     -2.062290238124   -1.263324780561    0.707074766958
+               3 H     -2.088370539014   -0.627223872463   -1.045750213311
+               4 H     -2.070422227697    0.572891153527    0.381466217661
+               5 F     -4.126355140870   -0.443142572895    0.043357566287
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     73 
+    Coordinates:
+               0 C     -2.154921035030   -0.439388649753    0.015437997548
+               1 Cl     0.183177253333   -0.434942847063   -0.017667196609
+               2 H     -2.062170823803   -1.263373679539    0.707111291493
+               3 H     -2.088239999872   -0.627233194249   -1.045820345141
+               4 H     -2.070297162269    0.572954881688    0.381482309408
+               5 F     -4.126148232358   -0.443146511083    0.043365943302
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     74 
+    Coordinates:
+               0 C     -2.212400380306   -0.439498038147    0.016252100701
+               1 Cl     0.160057427614   -0.434988009282   -0.017337795852
+               2 H     -2.058726238600   -1.282997525959    0.723567496407
+               3 H     -2.085415756795   -0.631703388324   -1.071114354198
+               4 H     -2.067045820250    0.597069492097    0.390181015814
+               5 F     -4.055069231662   -0.443012530386    0.042361537127
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     75 
+    Coordinates:
+               0 C     -2.230441276972   -0.439531717088    0.016506324731
+               1 Cl     0.231737153868   -0.434852316904   -0.018351585899
+               2 H     -2.070913781424   -1.259814934949    0.704227040866
+               3 H     -2.096867852039   -0.626432310536   -1.041099729851
+               4 H     -2.079004237795    0.568548607314    0.380009313124
+               5 F     -4.073110005638   -0.443047327835    0.042618637030
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     76 
+    Coordinates:
+               0 C     -2.246114126239   -0.439561183034    0.016727592467
+               1 Cl     0.265982430212   -0.434788945515   -0.018833575383
+               2 H     -2.071936361253   -1.255693699464    0.700773765025
+               3 H     -2.097761354325   -0.625493545170   -1.035786895491
+               4 H     -2.079987695818    0.563485929832    0.378185496433
+               5 F     -4.088782892577   -0.443078556649    0.042843616949
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     77 
+    Coordinates:
+               0 C     -2.271201459537   -0.439607922388    0.017081199920
+               1 Cl     0.304898630905   -0.434718519214   -0.019378994817
+               2 H     -2.068219881647   -1.252797556560    0.698290164247
+               3 H     -2.093959437945   -0.624826083563   -1.032128941910
+               4 H     -2.076247732963    0.559948838153    0.376842898655
+               5 F     -4.113870118814   -0.443128756429    0.043203673906
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     78 
+    Coordinates:
+               0 C     -2.278747868009   -0.439621506376    0.017187003559
+               1 Cl     0.310271559698   -0.434710624029   -0.019451732512
+               2 H     -2.064981443152   -1.252434139976    0.697943311918
+               3 H     -2.090715714020   -0.624737793985   -1.031718049147
+               4 H     -2.073010059472    0.559518533020    0.376637016815
+               5 F     -4.121416475044   -0.443144468654    0.043312449367
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     79 
+    Coordinates:
+               0 C     -2.279117761479   -0.439621645593    0.017191493531
+               1 Cl     0.306392206290   -0.434719539532   -0.019394604507
+               2 H     -2.063438151458   -1.252504410417    0.697982864844
+               3 H     -2.089179367685   -0.624751424593   -1.031836155054
+               4 H     -2.071470579069    0.559613022243    0.376647764010
+               5 F     -4.121786346599   -0.443146002108    0.043318637175
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     80 
+    Coordinates:
+               0 C     -2.278510513343   -0.439619887303    0.017182018911
+               1 Cl     0.302643950836   -0.434728328175   -0.019339027927
+               2 H     -2.062589960201   -1.252568105930    0.698025562781
+               3 H     -2.088338128428   -0.624764587184   -1.031934559635
+               4 H     -2.070626281918    0.559696647180    0.376664801710
+               5 F     -4.121179066946   -0.443145738588    0.043311204160
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     81 
+    Coordinates:
+               0 C     -2.278407530911   -0.439619425500    0.017180130025
+               1 Cl     0.302484116535   -0.434729412530   -0.019335515553
+               2 H     -2.062604131765   -1.252571725887    0.698028604625
+               3 H     -2.088354487523   -0.624765306778   -1.031940079916
+               4 H     -2.070641889055    0.559701850158    0.376666427735
+               5 F     -4.121076077280   -0.443145979463    0.043310433083
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     82 
+    Coordinates:
+               0 C     -2.299833915344   -0.439660432223    0.017483970556
+               1 Cl     0.281057732142   -0.434770416154   -0.019031671731
+               2 H     -2.084030516090   -1.252612732364    0.698332445415
+               3 H     -2.109780870396   -0.624806313253   -1.031636239146
+               4 H     -2.092068275146    0.559660843677    0.376970268551
+               5 F     -4.013944155166   -0.442940949683    0.041791226356
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     83 
+    Coordinates:
+               0 C     -2.323970521315   -0.439705881926    0.017825122622
+               1 Cl     0.351061205350   -0.434639615549   -0.020019345019
+               2 H     -2.091292312588   -1.251163857477    0.697204469403
+               3 H     -2.116999708638   -0.624485247471   -1.029654837697
+               4 H     -2.099317944090    0.557852888376    0.376419475824
+               5 F     -4.038080718719   -0.442988285954    0.042135114868
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     84 
+    Coordinates:
+               0 C     -2.347966043929   -0.439750128394    0.018162834450
+               1 Cl     0.384467899564   -0.434581421198   -0.020484087176
+               2 H     -2.086481116660   -1.247100691336    0.693725488586
+               3 H     -2.112070732258   -0.623548936773   -1.024516798762
+               4 H     -2.094473898731    0.552889382662    0.374541101961
+               5 F     -4.062076107986   -0.443038204961    0.042481460941
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     85 
+    Coordinates:
+               0 C     -2.358715439033   -0.439768880952    0.018312384248
+               1 Cl     0.388120935707   -0.434580023693   -0.020526971668
+               2 H     -2.080559762382   -1.244600692146    0.691547218627
+               3 H     -2.106083628693   -0.622968399875   -1.021408819842
+               4 H     -2.088536747593    0.549850932809    0.373345762527
+               5 F     -4.072825358006   -0.443062936143    0.042640426108
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     86 
+    Coordinates:
+               0 C     -2.358712016666   -0.439767721051    0.018310444153
+               1 Cl     0.380706669345   -0.434597450470   -0.020416544013
+               2 H     -2.078090117760   -1.244271133578    0.691238182800
+               3 H     -2.103612743653   -0.622889077824   -1.021031462915
+               4 H     -2.086069943264    0.549460656587    0.373165193705
+               5 F     -4.072821848002   -0.443065273664    0.042644186269
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     87 
+    Coordinates:
+               0 C     -2.357635151605   -0.439764292518    0.018292907024
+               1 Cl     0.374145436945   -0.434614016097   -0.020316888772
+               2 H     -2.076615414264   -1.244215809854    0.691171984535
+               3 H     -2.102147705558   -0.622873597358   -1.020991209077
+               4 H     -2.084602286317    0.549403652882    0.373119805327
+               5 F     -4.071744879201   -0.443065937055    0.042633400962
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     88 
+    Coordinates:
+               0 C     -2.357538939868   -0.439763486441    0.018290508679
+               1 Cl     0.374156546360   -0.434616006453   -0.020313710477
+               2 H     -2.076680063957   -1.244235295335    0.691188527103
+               3 H     -2.102218262380   -0.622877635133   -1.021018098455
+               4 H     -2.084670661853    0.549429482790    0.373128570243
+               5 F     -4.071648618302   -0.443067059428    0.042634202907
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     89 
+    Coordinates:
+               0 C     -2.378965310008   -0.439804819790    0.018594865338
+               1 Cl     0.352730167896   -0.434656992673   -0.020009896501
+               2 H     -2.098106198204   -1.244276593956    0.691492826822
+               3 H     -2.123644815729   -0.622918934564   -1.020713792779
+               4 H     -2.106097087181    0.549388183605    0.373432874101
+               5 F     -3.964516756774   -0.442860842622    0.041113123020
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     90 
+    Coordinates:
+               0 C     -2.399702555970   -0.439843202527    0.018887110175
+               1 Cl     0.419870258570   -0.434534165141   -0.020953355782
+               2 H     -2.106679897921   -1.242627504257    0.690212392122
+               3 H     -2.132173909719   -0.622553338025   -1.018456111995
+               4 H     -2.114659973674    0.547331293259    0.372809387178
+               5 F     -3.985253921287   -0.442903083308    0.041410578301
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     91 
+    Coordinates:
+               0 C     -2.411827956403   -0.439864262167    0.019055956290
+               1 Cl     0.433107728338   -0.434516751879   -0.021129096629
+               2 H     -2.103034454293   -1.240083223499    0.688024619303
+               3 H     -2.128465036722   -0.621964528465   -1.015255842234
+               4 H     -2.111001148096    0.544231250193    0.371622779380
+               5 F     -3.997379132824   -0.442932484183    0.041591583890
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     92 
+    Coordinates:
+               0 C     -2.419401700159   -0.439875723498    0.019158763379
+               1 Cl     0.427688335105   -0.434537787108   -0.021035882229
+               2 H     -2.096196884024   -1.237724938883    0.685952239029
+               3 H     -2.121578970750   -0.621412867852   -1.012353017886
+               4 H     -2.104158179593    0.541377019582    0.370475698831
+               5 F     -4.004952600580   -0.442955702241    0.041712198875
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     93 
+    Coordinates:
+               0 C     -2.418801572228   -0.439872942559    0.019147644529
+               1 Cl     0.418824922908   -0.434560137165   -0.020901717171
+               2 H     -2.093638215629   -1.237434615877    0.685674262185
+               3 H     -2.119025986965   -0.621341398738   -1.012030724369
+               4 H     -2.101606819267    0.541037886075    0.370310147677
+               5 F     -4.004352328819   -0.442958791736    0.041710387149
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     94 
+    Coordinates:
+               0 C     -2.417966362469   -0.439869794164    0.019133301424
+               1 Cl     0.414810330546   -0.434573109626   -0.020836392083
+               2 H     -2.092848567553   -1.237448869418    0.685674650403
+               3 H     -2.118251213152   -0.621342054902   -1.012070147582
+               4 H     -2.100827201342    0.541064846174    0.370303932792
+               5 F     -4.003516986031   -0.442961018064    0.041704655045
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     95 
+    Coordinates:
+               0 C     -2.439392719519   -0.439911687632    0.019438503864
+               1 Cl     0.393383951579   -0.434614070096   -0.020532619333
+               2 H     -2.114274325551   -1.237490658293    0.685979685799
+               3 H     -2.139678030893   -0.621383845850   -1.011765097081
+               4 H     -2.122253704183    0.541023055840    0.370608978807
+               5 F     -3.896385171432   -0.442752793969    0.040180547944
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     96 
+    Coordinates:
+               0 C     -2.456648166533   -0.439942718523    0.019680458353
+               1 Cl     0.454097462693   -0.434506729885   -0.021380466988
+               2 H     -2.123025231656   -1.235724274769    0.684602060146
+               3 H     -2.148386581911   -0.620990670989   -1.009357800017
+               4 H     -2.130997004157    0.538824862128    0.369934324181
+               5 F     -3.913640478435   -0.442790467962    0.040431424325
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     97 
+    Coordinates:
+               0 C     -2.462892891659   -0.439952105333    0.019765447941
+               1 Cl     0.457570556335   -0.434510364782   -0.021414741403
+               2 H     -2.120029847293   -1.234024578183    0.683131991538
+               3 H     -2.145361212210   -0.620594483087   -1.007236719290
+               4 H     -2.128001648832    0.536762581223    0.369131794514
+               5 F     -3.919884956340   -0.442811049837    0.040532226700
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     98 
+    Coordinates:
+               0 C     -2.468296664781   -0.439957548642    0.019835018876
+               1 Cl     0.446982759045   -0.434550060396   -0.021236060109
+               2 H     -2.112899938986   -1.231895064039    0.681245608384
+               3 H     -2.138212737727   -0.620090862934   -1.004645876421
+               4 H     -2.120885173876    0.534201482372    0.368078416642
+               5 F     -3.925288243674   -0.442837946361    0.040632892627
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     99 
+    Coordinates:
+               0 C     -2.467569935605   -0.439954130177    0.019821617152
+               1 Cl     0.440623775420   -0.434569922893   -0.021134355817
+               2 H     -2.111254320909   -1.231786355617    0.681131148494
+               3 H     -2.136584786930   -0.620061144887   -1.004545007158
+               4 H     -2.119253409027    0.534084200888    0.368004817257
+               5 F     -3.924561322949   -0.442842647313    0.040631780072
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     100 
+    Coordinates:
+               0 C     -2.467177881011   -0.439951422671    0.019813058486
+               1 Cl     0.438998330348   -0.434580634497   -0.021099849622
+               2 H     -2.110962014076   -1.231814598306    0.681148890101
+               3 H     -2.136313624420   -0.620064724250   -1.004597198776
+               4 H     -2.118975722606    0.534128914629    0.368010326430
+               5 F     -3.924169088236   -0.442847534905    0.040634773382
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     101 
+    Coordinates:
+               0 C     -2.488604216060   -0.439994290099    0.020119674132
+               1 Cl     0.417571950799   -0.434621554017   -0.020796139291
+               2 H     -2.132387157302   -1.231857232038    0.681455143616
+               3 H     -2.157740862886   -0.620107362163   -1.004290915270
+               4 H     -2.140402362343    0.534086277906    0.368316601374
+               5 F     -3.817037352208   -0.442635839589    0.039105635439
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     102 
+    Coordinates:
+               0 C     -2.504492696382   -0.440021880519    0.020341014400
+               1 Cl     0.471334470583   -0.434532423096   -0.021538347891
+               2 H     -2.139721614221   -1.230496626718    0.680399267977
+               3 H     -2.165054732748   -0.619802635756   -1.002436402300
+               4 H     -2.147739848383    0.532398474007    0.367801349444
+               5 F     -3.832925578848   -0.442674907917    0.039343118370
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     103 
+    Coordinates:
+               0 C     -2.510966518270   -0.440030483838    0.020427504643
+               1 Cl     0.473996338615   -0.434544838618   -0.021550883015
+               2 H     -2.136296186412   -1.228572542966    0.678732512522
+               3 H     -2.161609564482   -0.619351133095   -1.000045049616
+               4 H     -2.144325102027    0.530071858189    0.366888745373
+               5 F     -3.839398967424   -0.442702859672    0.039457170093
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     104 
+    Coordinates:
+               0 C     -2.514020645536   -0.440030815076    0.020462940978
+               1 Cl     0.461127222284   -0.434594546335   -0.021332309985
+               2 H     -2.129959549444   -1.226656895260    0.677033896880
+               3 H     -2.155277813044   -0.618894425768   -0.997724776535
+               4 H     -2.138016748686    0.527777704422    0.365937695193
+               5 F     -3.842452465574   -0.442731021983    0.039532553468
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     105 
+    Coordinates:
+               0 C     -2.513196731309   -0.440026377468    0.020447080554
+               1 Cl     0.454491156118   -0.434619649484   -0.021220274580
+               2 H     -2.128279011659   -1.226506241924    0.676882394141
+               3 H     -2.153627325788   -0.618853228120   -0.997577551873
+               4 H     -2.136359832465    0.527615039234    0.365842855859
+               5 F     -3.841628254898   -0.442739542237    0.039535495899
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     106 
+    Coordinates:
+               0 C     -2.512878579593   -0.440023097248    0.020438661082
+               1 Cl     0.453284627377   -0.434633601577   -0.021186263775
+               2 H     -2.128070754442   -1.226520502278    0.676888345854
+               3 H     -2.153451005022   -0.618852192187   -0.997616242710
+               4 H     -2.136174451453    0.527647257432    0.365841549497
+               5 F     -3.841309836868   -0.442747864142    0.039543950052
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     107 
+    Coordinates:
+               0 C     -2.534304877623   -0.440067611550    0.020747641395
+               1 Cl     0.431858247521   -0.434674461557   -0.020882641183
+               2 H     -2.149494897911   -1.226564551781    0.677196620051
+               3 H     -2.174878921687   -0.618896249461   -0.997307914143
+               4 H     -2.157601317562    0.527603202310    0.366149862943
+               5 F     -3.734178232738   -0.442530327961    0.038006430936
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     108 
+    Coordinates:
+               0 C     -2.552566687186   -0.440099799182    0.021002715430
+               1 Cl     0.477504893541   -0.434608065082   -0.021499465490
+               2 H     -2.152502502330   -1.227379162355    0.677912395693
+               3 H     -2.177950809395   -0.619077473687   -0.998335259962
+               4 H     -2.160645272974    0.528615466115    0.366541528086
+               5 F     -3.752439621655   -0.442580965808    0.038288086244
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     109 
+    Coordinates:
+               0 C     -2.563550707047   -0.440116393606    0.021152305356
+               1 Cl     0.478265731099   -0.434638278229   -0.021465141197
+               2 H     -2.145441046523   -1.223607766594    0.674640937944
+               3 H     -2.170847766653   -0.618191064226   -0.993650955768
+               4 H     -2.153603334842    0.524054896683    0.364746997847
+               5 F     -3.763422876033   -0.442631394027    0.038485855817
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     110 
+    Coordinates:
+               0 C     -2.565190939943   -0.440115143005    0.021169379977
+               1 Cl     0.465162345485   -0.434689549480   -0.021242329306
+               2 H     -2.139973784979   -1.220995715042    0.672367414182
+               3 H     -2.165371289034   -0.617576046051   -0.990423478026
+               4 H     -2.148163851666    0.520904495485    0.363496652452
+               5 F     -3.765062479863   -0.442658041907    0.038542360721
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     111 
+    Coordinates:
+               0 C     -2.564346552387   -0.440109903213    0.021152253809
+               1 Cl     0.459326019405   -0.434719195150   -0.021133454038
+               2 H     -2.138565930394   -1.220627878375    0.672035213602
+               3 H     -2.164004798194   -0.617483723003   -0.990002330777
+               4 H     -2.146791069417    0.520482240876    0.363306620882
+               5 F     -3.764217669011   -0.442671541136    0.038551696521
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     112 
+    Coordinates:
+               0 C     -2.564204250470   -0.440106209416    0.021145360028
+               1 Cl     0.459002704109   -0.434737305488   -0.021104044324
+               2 H     -2.138526053132   -1.220596684979    0.672003485328
+               3 H     -2.164011650888   -0.617470400665   -0.989988869510
+               4 H     -2.146785772145    0.520465609651    0.363284949473
+               5 F     -3.764074977473   -0.442685009103    0.038569119005
