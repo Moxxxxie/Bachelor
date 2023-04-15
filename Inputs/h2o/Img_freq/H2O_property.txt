@@ -1,0 +1,147 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -75.8365696662
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 1
+   prop. index: 1
+     Number of atoms                     : 3
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 2
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     8.4450     8.0000    -0.4450     1.9070     1.9070     0.0000
+  1   0     0.7956     1.0000     0.2044     0.9792     0.9792     0.0000
+  2   0     0.7593     1.0000     0.2407     0.9394     0.9394     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             8               1            1                0.973394
+                0             8               2            1                0.933626
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          1
+     Charge:                                0
+     number of atoms:                       3
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             24
+     number of aux C basis functions:       0
+     number of aux J basis functions:       0
+     number of aux JK basis functions:      0
+     number of aux CABS basis functions:    0
+     Total Energy                           -75.836570
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : H2O.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        2.2782153872
+        Electronic Contribution:
+                  0    
+      0       0.007951
+      1      -0.476543
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.504973
+      1       1.211570
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.512924
+      1       0.735026
+      2      -0.000000
+# -----------------------------------------------------------
+$ Hessian
+   description: Details about the Hessian
+   geom. index: 1
+   prop. index: 1
+Normal modes:
+Number of Rows: 9 Number of Columns: 9
+                  0          1          2          3          4          5    
+      0       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      1       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      2       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      3       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      4       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      5       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      6       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      7       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      8       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+                  6          7          8    
+      0       0.013420   0.030999   0.063475
+      1      -0.061917   0.056972   0.000476
+      2      -0.000000  -0.000000  -0.000000
+      3       0.020065   0.047123  -0.997845
+      4       0.012645  -0.835568  -0.012584
+      5       0.000000   0.000000   0.000000
+      6      -0.233061  -0.539147  -0.009630
+      7       0.970106  -0.068701   0.005035
+      8       0.000000   0.000000  -0.000000
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 1
+   prop. index: 1
+        Temperature (Kelvin)           :        298.1500000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         18.0150000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :        -75.8365696662
+        Translational Energy (Hartree) :          0.0014162714
+        Rotational Energy (Hartree)    :          0.0014162714
+        Vibrational Energy (Hartree)   :          0.0000051097
+        Number of frequencies          :     9      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     -1069.754909
+      7     1490.629494
+      8     3881.838780
+        Zero Point Energy (Hartree)    :          0.0122393833
+        Inner Energy (Hartree)         :        -75.8214926304
+        Enthalpy (Hartree)             :        -75.8205484213
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0063165169
+        Vibrational entropy            :          0.0000058209
+        Translational entropy          :          0.0063165169
+        Entropy                        :          0.0227661397
+        Gibbs Energy (Hartree)         :        -75.8433145610
+        Is Linear                      :                 false
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     1 
+    Coordinates:
+               0 O      0.000000000000    0.000000000000    0.000000000000
+               1 H      0.969000000000    0.000000000000    0.000000000000
+               2 H     -0.362323966443    1.455582819128    0.000000000000
